@@ -1,0 +1,3112 @@
+[{
+    "name": "Yammy Llargo(CFYOW version)",
+    "char": "Yammy Llargo 6",
+    "type": "purple",
+    "quote": "\"Quit bothering me, you worm!\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1100,
+        "atk": 766,
+        "def": 374,
+        "fcs": 348,
+        "sp": 624
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [28, 31, 50],
+    "id": 182,
+    "_id": "1124-ed7d5f8c-20e8-4a33-bfc1-34d1aefe79b9"
+}, {
+    "name": "Nnoitora Gilga(CFYOW version)",
+    "char": "Nnoitora Gilga 6",
+    "type": "orange",
+    "quote": "\"I don't remember any of the worthless scum I've cut to pieces.\"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 1092,
+        "atk": 771,
+        "def": 383,
+        "fcs": 347,
+        "sp": 618
+    },
+    "raidTab": [4, 2, 3, 7],
+    "raidChar": [14, 30, 19, 44],
+    "id": 181,
+    "_id": "1123-489d174c-3ad5-4ec7-bb80-4c9e5197dd14"
+}, {
+    "name": "Zommari Rureaux(CFYOW version)",
+    "char": "Zommari Rureaux 6",
+    "type": "green",
+    "quote": "\"Receive my love!\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1076,
+        "atk": 638,
+        "def": 349,
+        "fcs": 353,
+        "sp": 794
+    },
+    "raidTab": [4, 5, 7],
+    "raidChar": [35, 20, 46],
+    "id": 180,
+    "_id": "1125-15b90a39-3e0b-4520-925f-1970198b7903"
+}, {
+    "name": "Yoruichi Shihoin(Swimsuit version)",
+    "char": "Yoruichi Shihoin 6",
+    "type": "red",
+    "quote": "\"I'm on a whole other level today. Burn this image into your brain.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1071,
+        "atk": 634,
+        "def": 361,
+        "fcs": 360,
+        "sp": 778
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 179,
+    "_id": "1126-c3336387-c3f6-4976-b707-9caffec9b8df"
+}, {
+    "name": "Ichigo Kurosaki(New Year 2019 version)",
+    "char": "Ichigo Kurosaki 6",
+    "type": "blue",
+    "quote": "\"The blood of the Quincies that flows within me... I will borrow a little of that power!\"",
+    "soulTrait": "Strong attack recharge time -14%",
+    "stats": {
+        "sta": 1065,
+        "atk": 642,
+        "def": 358,
+        "fcs": 344,
+        "sp": 794
+    },
+    "raidTab": [3, 4, 2, 7],
+    "raidChar": [16, 18, 43, 58],
+    "id": 178,
+    "_id": "1069-bc0ae545-55e7-499f-a6f2-2b0a3f2f5a1d"
+}, {
+    "name": "Kukaku Shiba(Swimsuit version)",
+    "char": "Kukaku Shiba 6",
+    "type": "orange",
+    "quote": "\"Flowers that bloom in the sea have a certain je ne sais quoi.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1082,
+        "atk": 638,
+        "def": 356,
+        "fcs": 353,
+        "sp": 774
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 177,
+    "_id": "1127-3c54c5c3-186e-4c55-bc47-0ceafc6bc1dc"
+}, {
+    "name": "Orihime Inoue(Swimsuit version)",
+    "char": "Orihime Inoue 6",
+    "type": "green",
+    "quote": "\"What a beautiful sunset!\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1075,
+        "atk": 627,
+        "def": 361,
+        "fcs": 358,
+        "sp": 782
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 176,
+    "_id": "1128-ac8c7d4d-ebf8-45c4-ad71-95928f58e340"
+}, {
+    "name": "Tier Halibel(Japanese Parasol version)",
+    "char": "Tier Halibel 6",
+    "type": "purple",
+    "quote": "\"The gentle sound of rain is like the darkness of Hueco Mundo.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1071,
+        "atk": 634,
+        "def": 354,
+        "fcs": 357,
+        "sp": 786
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 175,
+    "_id": "1117-b664d10f-3ea7-48d9-90bb-5dd4a184431b"
+}, {
+    "name": "Cyan Sun-Sun(Japanese Parasol version)",
+    "char": "Cyan Sun-Sun 6",
+    "type": "green",
+    "quote": "\"Of course those foolish oafs are nowhere near my equals.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1075,
+        "atk": 636,
+        "def": 357,
+        "fcs": 356,
+        "sp": 777
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 174,
+    "_id": "1119-93b831ed-0978-4c99-9a2b-452b2c25f518"
+}, {
+    "name": "Sosuke Aizen(Japanese Parasol version)",
+    "char": "Sosuke Aizen 6",
+    "type": "blue",
+    "quote": "\"Everything is an illusion shown you by this parasol.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1088,
+        "atk": 766,
+        "def": 377,
+        "fcs": 350,
+        "sp": 620
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 173,
+    "_id": "1118-6ac59bcf-d58e-4598-84a8-289a4e33bffd"
+}, {
+    "name": "Shunsui Kyoraku(The Past version)",
+    "char": "Shunsui Kyoraku 6",
+    "type": "green",
+    "quote": "\"Don't give in to worry.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1076,
+        "atk": 630,
+        "def": 361,
+        "fcs": 353,
+        "sp": 778
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [11, 4, 52],
+    "id": 172,
+    "_id": "1093-2f6f7798-4bf7-4e45-bc74-8fde70ef881a"
+}, {
+    "name": "Grimmjow Jeagerjaques(CFYOW version)",
+    "char": "Grimmjow Jeagerjaques 6",
+    "type": "purple",
+    "quote": "\"I don't need a reason to fight. I just follow my instincts.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1071,
+        "atk": 641,
+        "def": 358,
+        "fcs": 353,
+        "sp": 774
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [19, 26, 44],
+    "id": 171,
+    "_id": "1111-83cc25aa-4907-4348-a929-29b7576c73ac"
+}, {
+    "name": "Hikone Ubuginu(CFYOW version)",
+    "char": "Hikone Ubuginu 6",
+    "type": "orange",
+    "quote": "\"Nice to meet you. I'm Hikone Ubuginu.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1076,
+        "atk": 638,
+        "def": 354,
+        "fcs": 351,
+        "sp": 778
+    },
+    "raidTab": [4, 3, 2, 7],
+    "raidChar": [36, 19, 26, 44],
+    "id": 170,
+    "_id": "1112-e8937839-5f1e-46a0-a974-36f4db5789aa"
+}, {
+    "name": "Nelliel Tu Odelschwanck(CFYOW version)",
+    "char": "Nelliel Tu Odelschwanck 6",
+    "type": "red",
+    "quote": "\"We also have things we must protect. That is all there is to it.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1082,
+        "atk": 762,
+        "def": 383,
+        "fcs": 346,
+        "sp": 624
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [19, 42, 55],
+    "id": 169,
+    "_id": "1113-6e11a76a-4bff-43c7-9e72-e32465e2a642"
+}, {
+    "name": "Tensa Zangetsu",
+    "char": "Tensa Zangetsu 6",
+    "type": "orange",
+    "quote": "\"I also have something I want to protect.\"",
+    "soulTrait": "Strong attack recharge time -14%",
+    "stats": {
+        "sta": 1071,
+        "atk": 638,
+        "def": 358,
+        "fcs": 360,
+        "sp": 770
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [8, 43, 54],
+    "id": 168,
+    "_id": "1120-81d65848-6e19-4724-8693-d843a412ab5e"
+}, {
+    "name": "White Ichigo",
+    "char": "White Ichigo 6",
+    "type": "red",
+    "quote": "\"There's only one answer... Instinct!\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1076,
+        "atk": 634,
+        "def": 356,
+        "fcs": 357,
+        "sp": 774
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [29, 28, 50],
+    "id": 167,
+    "_id": "1121-3001eaf0-0066-4e32-8fad-9b65e0e79d7f"
+}, {
+    "name": "Isshin Kurosaki",
+    "char": "Isshin Kurosaki 6",
+    "type": "purple",
+    "quote": "\"Don't underestimate me. I'm not going to lose to some young 'un.\"",
+    "soulTrait": "Last-Ditch Survival rate +100%",
+    "stats": {
+        "sta": 1081,
+        "atk": 636,
+        "def": 352,
+        "fcs": 354,
+        "sp": 773
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [24, 41, 55],
+    "id": 166,
+    "_id": "1094-d6aa1512-0be6-4862-b839-8907d8170e22"
+}, {
+    "name": "Jushiro Ukitake(The Past version)",
+    "char": "Jushiro Ukitake 6",
+    "type": "red",
+    "quote": "\"You are gravely mistaken if you think all my Zanpakuto can do is reflect attacks.\"",
+    "soulTrait": "Damage inflicted at full STA +25%",
+    "stats": {
+        "sta": 1069,
+        "atk": 634,
+        "def": 367,
+        "fcs": 352,
+        "sp": 774
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [25, 38, 62],
+    "id": 165,
+    "_id": "1095-728eaae4-0019-46a8-970b-e5d781c9aab0"
+}, {
+    "name": "Yoruichi Shihoin(The Past version)",
+    "char": "Yoruichi Shihoin 6",
+    "type": "purple",
+    "quote": "\"\"Cat monster\"?! That's what I get for coming over to visit?\"",
+    "soulTrait": "Strong attack recharge time -14%",
+    "stats": {
+        "sta": 1071,
+        "atk": 641,
+        "def": 358,
+        "fcs": 356,
+        "sp": 770
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [33, 3, 61],
+    "id": 164,
+    "_id": "1122-af529390-24c8-4747-83c2-182026b58120"
+}, {
+    "name": "Retsu Unohana(The Past version)",
+    "char": "Retsu Unohana 6",
+    "type": "red",
+    "quote": "\"I came here to stop the flow of blood, not to spill it.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1081,
+        "atk": 760,
+        "def": 376,
+        "fcs": 349,
+        "sp": 622
+    },
+    "raidTab": [4, 5, 7],
+    "raidChar": [25, 13, 71],
+    "id": 163,
+    "_id": "1114-d7a4331a-88a4-4210-b912-ff808209d43d"
+}, {
+    "name": "Kenpachi Zaraki(The Belief version)",
+    "char": "Kenpachi Zaraki 6",
+    "type": "red",
+    "quote": "\"It's boring to cut down weaklings like you.\"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 1076,
+        "atk": 773,
+        "def": 368,
+        "fcs": 342,
+        "sp": 628
+    },
+    "raidTab": [3, 4, 2, 7],
+    "raidChar": [35, 10, 12, 68],
+    "id": 162,
+    "_id": "1086-01aa522b-3a81-48dd-a716-d78f9ac19b23"
+}, {
+    "name": "Kisuke Urahara(The Past version)",
+    "char": "Kisuke Urahara 6",
+    "type": "blue",
+    "quote": "\"Oh dear! It seems I've been spotted.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1065,
+        "atk": 634,
+        "def": 352,
+        "fcs": 358,
+        "sp": 778
+    },
+    "raidTab": [4, 5, 7],
+    "raidChar": [17, 41, 52],
+    "id": 161,
+    "_id": "1087-67b906a7-c044-4ee6-9d96-042ae40966a5"
+}, {
+    "name": "Shinji Hirako(The Past version)",
+    "char": "Shinji Hirako 6",
+    "type": "green",
+    "quote": "\"You were like this before you were even born!\"",
+    "soulTrait": "Damage inflicted at low STA +30%",
+    "stats": {
+        "sta": 1088,
+        "atk": 762,
+        "def": 379,
+        "fcs": 342,
+        "sp": 616
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [27, 3, 56],
+    "id": 160,
+    "_id": "1115-4692a35c-e197-4912-a491-c21c658c1b4f"
+}, {
+    "name": "Toshiro Hitsugaya(The Belief version)",
+    "char": "Toshiro Hitsugaya 6",
+    "type": "purple",
+    "quote": "\"If you shut off your power in the next five minutes, I won't kill you.\"",
+    "soulTrait": "Damage inflicted at full STA +25%",
+    "stats": {
+        "sta": 1059,
+        "atk": 634,
+        "def": 361,
+        "fcs": 351,
+        "sp": 782
+    },
+    "raidTab": [4, 6, 7],
+    "raidChar": [30, 43, 60],
+    "id": 159,
+    "_id": "1116-f8043b82-483c-4dba-844b-7ce6d28ab219"
+}, {
+    "name": "Ikkaku Madarame(The Belief version)",
+    "char": "Ikkaku Madarame 6",
+    "type": "orange",
+    "quote": "\"Take note of my name. It's the last name you're ever going to hear.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1053,
+        "atk": 638,
+        "def": 358,
+        "fcs": 358,
+        "sp": 778
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [1, 10, 54],
+    "id": 158,
+    "_id": "1088-bd157a62-db54-4e2b-b3fd-063cbe3275b3"
+}, {
+    "name": "Mayuri Kurotsuchi(New Year version)",
+    "char": "Mayuri Kurotsuchi 6",
+    "type": "green",
+    "quote": "\"This outfit may be a little too much for your feeble minds to comprehend. \"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1053,
+        "atk": 634,
+        "def": 367,
+        "fcs": 351,
+        "sp": 778
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 157,
+    "_id": "1070-a60a5c28-f45f-45c1-a00c-d57a5e69ba2e"
+}, {
+    "name": "Rukia Kuchiki(New Year version)",
+    "char": "Rukia Kuchiki 6",
+    "type": "purple",
+    "quote": "\"Allow me to adorn this New Year's party with flowers and dance.\"",
+    "soulTrait": "Recover 25% Stamina between quest areas",
+    "stats": {
+        "sta": 1046,
+        "atk": 638,
+        "def": 370,
+        "fcs": 354,
+        "sp": 774
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 156,
+    "_id": "1049-218dbaa9-4f0f-47eb-a7e5-94f45db0bd77"
+}, {
+    "name": "Sosuke Aizen(3rd Fusion version)",
+    "char": "Sosuke Aizen 6",
+    "type": "red",
+    "quote": "\"I will teach you; Here is what power is.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1053,
+        "atk": 638,
+        "def": 361,
+        "fcs": 348,
+        "sp": 782
+    },
+    "raidTab": [3, 6, 5, 2],
+    "raidChar": [41, 9, 67, 58],
+    "id": 155,
+    "_id": "1071-dafbef22-2b3e-4bed-b35d-a9d3d137564d"
+}, {
+    "name": "Hanataro Yamada(New Year version)",
+    "char": "Hanataro Yamada 6",
+    "type": "red",
+    "quote": "\"I really hope I can get through this year without anything bad happening to me.\"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 1063,
+        "atk": 636,
+        "def": 357,
+        "fcs": 352,
+        "sp": 773
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 154,
+    "_id": "1072-6750e991-0579-4912-9705-c099f9f2bea7"
+}, {
+    "name": "Shunsui Kyoraku",
+    "char": "Shunsui Kyoraku 6",
+    "type": "orange",
+    "quote": "\"Only amateurs would give up a victory for the sake of a code of honor.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1071,
+        "atk": 766,
+        "def": 379,
+        "fcs": 344,
+        "sp": 620
+    },
+    "raidTab": [4, 5, 7],
+    "raidChar": [32, 4, 59],
+    "id": 153,
+    "_id": "1050-a922837e-74ed-4521-93d8-0d7920d7404f"
+}, {
+    "name": "Shinji Hirako",
+    "char": "Shinji Hirako 6",
+    "type": "blue",
+    "quote": "\"We're Sosuke's enemies. There is someone else we support, and that's Ichigo Kurosaki.\"",
+    "soulTrait": "Damage taken -20%",
+    "stats": {
+        "sta": 1059,
+        "atk": 641,
+        "def": 358,
+        "fcs": 347,
+        "sp": 774
+    },
+    "raidTab": [4, 5, 7],
+    "raidChar": [27, 22, 49],
+    "id": 152,
+    "_id": "1051-b766e37a-6a2f-45df-9aa8-1363d7cb99d1"
+}, {
+    "name": "Byakuya Kuchiki(Cacao Society version)",
+    "char": "Byakuya Kuchiki 6",
+    "type": "blue",
+    "quote": "\"This is the first time I have drawn a sword for a cause, and I swear it will be the last.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1063,
+        "atk": 640,
+        "def": 357,
+        "fcs": 349,
+        "sp": 769
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 151,
+    "_id": "1003-5d9f3e66-bc37-47c6-a5ee-e21c0d623a4f"
+}, {
+    "name": "Gin Ichimaru(Cacao Society version)",
+    "char": "Gin Ichimaru 6",
+    "type": "green",
+    "quote": "\"This is just my feeling. Will you accept it?\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1059,
+        "atk": 641,
+        "def": 352,
+        "fcs": 356,
+        "sp": 770
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 150,
+    "_id": "1090-7805e1ff-3ff3-444d-b11c-6286417f3ea8"
+}, {
+    "name": "Gin Ichimaru(Cacao Society version)",
+    "char": "Gin Ichimaru 6",
+    "type": "green",
+    "quote": "\"This is just my feeling. Will you accept it?\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1059,
+        "atk": 641,
+        "def": 352,
+        "fcs": 356,
+        "sp": 770
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 149,
+    "_id": "1091-0ff4d48b-33f8-478a-9074-f914ed03ed8c"
+}, {
+    "name": "Ichigo Kurosaki(Thousand-Year Blood War Bankai version)",
+    "char": "Ichigo Kurosaki 6",
+    "type": "purple",
+    "quote": "\"And what of this \"despair\"? I know it all too well. I've surpassed it over and over again.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1053,
+        "atk": 642,
+        "def": 354,
+        "fcs": 351,
+        "sp": 778
+    },
+    "raidTab": [6, 3, 2, 4],
+    "raidChar": [15, 23, 18, 6],
+    "id": 148,
+    "_id": "1092-fe453b9c-97a2-4729-afc2-240c05013116"
+}, {
+    "name": "White Ichigo(Cacao Society version)",
+    "char": "White Ichigo 6",
+    "type": "orange",
+    "quote": "\"Only those who have seen the view from the summit can understand it.\"",
+    "soulTrait": "Strong attack damage +25%",
+    "stats": {
+        "sta": 1053,
+        "atk": 642,
+        "def": 358,
+        "fcs": 351,
+        "sp": 774
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 147,
+    "_id": "1004-30d1cff5-080b-4a2f-901c-cc29fc924526"
+}, {
+    "name": "Yhwach(Thousand-Year Blood War version)",
+    "char": "Yhwach 6",
+    "type": "orange",
+    "quote": "\"My name is Yhwach. The one who will rob you of everything.\"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 1047,
+        "atk": 634,
+        "def": 356,
+        "fcs": 353,
+        "sp": 786
+    },
+    "raidTab": [2, 5, 4, 2],
+    "raidChar": [24, 25, 18, 8],
+    "id": 146,
+    "_id": "1005-ad29a792-8c43-4e86-9ccf-51cdc9202f94"
+}, {
+    "name": "Kisuke Urahara(Thousand-Year Blood War version)",
+    "char": "Kisuke Urahara 6",
+    "type": "green",
+    "quote": "\"We're talking about war. If you lose, you're dead. Everyone prepares to give themselves the best odds of survival.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1042,
+        "atk": 642,
+        "def": 367,
+        "fcs": 353,
+        "sp": 770
+    },
+    "raidTab": [6, 3, 7],
+    "raidChar": [41, 19, 44],
+    "id": 145,
+    "_id": "1006-54eb8dc1-8380-40e2-9c8b-8b4cc34ff432"
+}, {
+    "name": "Yoruichi Shihoin(Thousand-Year Blood War version)",
+    "char": "Yoruichi Shihoin 6",
+    "type": "blue",
+    "quote": "\"I'll never of my own free will turn into that disgusting, half-cocked, undignified form again.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1042,
+        "atk": 653,
+        "def": 354,
+        "fcs": 351,
+        "sp": 774
+    },
+    "raidTab": [3, 6, 7],
+    "raidChar": [24, 3, 50],
+    "id": 144,
+    "_id": "1080-925fb6bf-e6d3-4eb2-969e-3469a13c4957"
+}, {
+    "name": "Kaien Shiba",
+    "char": "Kaien Shiba 6",
+    "type": "red",
+    "quote": "\"I will stand by you, even if it costs me my life.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1059,
+        "atk": 642,
+        "def": 352,
+        "fcs": 340,
+        "sp": 778
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [35, 20, 54],
+    "id": 143,
+    "_id": "1081-da69660a-2089-4ae6-ae4d-b95f876226e7"
+}, {
+    "name": "Renji Abarai",
+    "char": "Renji Abarai 6",
+    "type": "blue",
+    "quote": "\"Don't underestimate us. We Soul Reapers are very powerful.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1053,
+        "atk": 638,
+        "def": 354,
+        "fcs": 351,
+        "sp": 774
+    },
+    "raidTab": [4, 5, 7],
+    "raidChar": [41, 42, 55],
+    "id": 142,
+    "_id": "1082-88cabafa-9124-4b5b-a90f-e64ed9861956"
+}, {
+    "name": "Yumichika Ayasegawa",
+    "char": "Yumichika Ayasegawa 6",
+    "type": "green",
+    "quote": "\"Now I'll enjoy some of your spirit energy.\"",
+    "soulTrait": "Last-Ditch Survival rate +100%",
+    "stats": {
+        "sta": 1063,
+        "atk": 636,
+        "def": 361,
+        "fcs": 341,
+        "sp": 769
+    },
+    "raidTab": [4, 5, 7],
+    "raidChar": [10, 12, 65],
+    "id": 141,
+    "_id": "1056-d7a47c28-cbbd-438d-bab0-3b4f22580f91"
+}, {
+    "name": "Nemu Kurotsuchi(Christmas version)",
+    "char": "Nemu Kurotsuchi 6",
+    "type": "purple",
+    "quote": "\"I give presents to the bad children and Master Mayuri gives presents to the good ones.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1040,
+        "atk": 708,
+        "def": 355,
+        "fcs": 341,
+        "sp": 724
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 140,
+    "_id": "1052-609a5273-ac45-4514-997e-d141a7bba176"
+}, {
+    "name": "Sajin Komamura(The Lost Agent version)",
+    "char": "Sajin Komamura 6",
+    "type": "blue",
+    "quote": "\"Stand behind me!\"",
+    "soulTrait": "Last-Ditch Survival rate +100%",
+    "stats": {
+        "sta": 1053,
+        "atk": 638,
+        "def": 361,
+        "fcs": 342,
+        "sp": 774
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [39, 1, 57],
+    "id": 139,
+    "_id": "1053-7cde56b3-ae2f-4e68-9995-caa549b4b74f"
+}, {
+    "name": "Soi Fon(Cacao Society version)",
+    "char": "Soi Fon 6",
+    "type": "orange",
+    "quote": "\"This is not duty. I have but one desire.\"",
+    "soulTrait": "Strong attack damage +25%",
+    "stats": {
+        "sta": 1053,
+        "atk": 642,
+        "def": 352,
+        "fcs": 351,
+        "sp": 770
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 138,
+    "_id": "1077-d38bfbe1-24ff-43ae-8cdf-94809a5f6a1d"
+}, {
+    "name": "Yoruichi Shihoin(Christmas version)",
+    "char": "Yoruichi Shihoin 6",
+    "type": "orange",
+    "quote": "\"What? You didn't expect Santa to be such a beautiful woman?\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1047,
+        "atk": 638,
+        "def": 363,
+        "fcs": 346,
+        "sp": 774
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 137,
+    "_id": "1055-c0d318ab-96c6-4bf3-a1bc-9283c756900c"
+}, {
+    "name": "Yoruichi Shihoin(Christmas version)",
+    "char": "Yoruichi Shihoin 6",
+    "type": "orange",
+    "quote": "\"What? You didn't expect Santa to be such a beautiful woman?\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1047,
+        "atk": 638,
+        "def": 363,
+        "fcs": 346,
+        "sp": 774
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 136,
+    "_id": "1057-afaf12e4-6f2a-4be1-b413-c580568bff99"
+}, {
+    "name": "Jushiro Ukitake(The Lost Agent version)",
+    "char": "Jushiro Ukitake 6",
+    "type": "orange",
+    "quote": "\"There are two kinds of battles: a battle to protect life, or a battle to defend honor.\"",
+    "soulTrait": "Strong attack recharge time -14%",
+    "stats": {
+        "sta": 1052,
+        "atk": 640,
+        "def": 361,
+        "fcs": 341,
+        "sp": 773
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [20, 42, 47],
+    "id": 135,
+    "_id": "1073-0829a054-81a9-48b4-9268-4a8cfdcf62e1"
+}, {
+    "name": "Kensei Muguruma(The Lost Agent version)",
+    "char": "Kensei Muguruma 6",
+    "type": "green",
+    "quote": "\"My Tachikaze will blow everything away!\"",
+    "soulTrait": "Damage taken -20%",
+    "stats": {
+        "sta": 1057,
+        "atk": 767,
+        "def": 365,
+        "fcs": 356,
+        "sp": 622
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [22, 36, 56],
+    "id": 134,
+    "_id": "1075-976247d4-65c9-4a86-8642-af3b3ab91c44"
+}, {
+    "name": "Nelliel Tu Odelschwanck",
+    "char": "Nelliel Tu Odelschwanck 6",
+    "type": "orange",
+    "quote": "\"Don’t be worried. It’ll be over before you know it.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1059,
+        "atk": 638,
+        "def": 352,
+        "fcs": 344,
+        "sp": 774
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [21, 14, 54],
+    "id": 133,
+    "_id": "1076-d4e9a217-d796-4613-b534-f2ebab0575f1"
+}, {
+    "name": "Riruka Dokugamine(Cacao Society version)",
+    "char": "Riruka Dokugamine 6",
+    "type": "purple",
+    "quote": "\"You're the only one getting chocolate from me, so be thankful!\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1059,
+        "atk": 634,
+        "def": 349,
+        "fcs": 351,
+        "sp": 774
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 132,
+    "_id": "1054-25bdfd1c-b083-4ea8-8ef5-2ce32fcada08"
+}, {
+    "name": "Tesla Lindocruz",
+    "char": "Tesla Lindocruz 6",
+    "type": "green",
+    "quote": "\"If you do attack, I shall destroy it.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1063,
+        "atk": 629,
+        "def": 361,
+        "fcs": 345,
+        "sp": 769
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [14, 30, 44],
+    "id": 131,
+    "_id": "1074-d2b743da-9b7b-44a7-b0eb-017eccac7804"
+}, {
+    "name": "Luppi Antenor",
+    "char": "Luppi Antenor 6",
+    "type": "purple",
+    "quote": "\"Oh... Sorry... Of course I mean the former Six.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1059,
+        "atk": 641,
+        "def": 349,
+        "fcs": 351,
+        "sp": 766
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [32, 19, 74],
+    "id": 130,
+    "_id": "1078-085e89e0-8c0e-4182-bc76-0d4f8a000c83"
+}, {
+    "name": "Momo Hinamori(Cacao Society version)",
+    "char": "Momo Hinamori 6",
+    "type": "blue",
+    "quote": "\"I have committed myself to give my all for the peace of the Cacao Society. \"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1052,
+        "atk": 638,
+        "def": 365,
+        "fcs": 341,
+        "sp": 770
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 129,
+    "_id": "1031-2182ece9-1915-468a-89bd-33899c30b448"
+}, {
+    "name": "Retsu Unohana(Christmas version)",
+    "char": "Retsu Unohana 6",
+    "type": "green",
+    "quote": "\"Santa Claus only visits those children who have been good.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1042,
+        "atk": 634,
+        "def": 365,
+        "fcs": 347,
+        "sp": 778
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 128,
+    "_id": "0966-b5429bdf-8b83-4d3e-a875-3b8220ec992b"
+}, {
+    "name": "Ichigo Kurosaki(The Bond version)",
+    "char": "Ichigo Kurosaki 6",
+    "type": "orange",
+    "quote": "\"I'm going to kick your ass to protect everyone else.\"",
+    "soulTrait": "Normal attack damage +25%",
+    "stats": {
+        "sta": 1059,
+        "atk": 773,
+        "def": 363,
+        "fcs": 344,
+        "sp": 624
+    },
+    "raidTab": [3, 2, 4, 7],
+    "raidChar": [18, 31, 40, 70],
+    "id": 127,
+    "_id": "1032-f995aff8-d975-43a3-8897-512219c05932"
+}, {
+    "name": "Ulquiorra Shifar(3rd Anniversary version)",
+    "char": "Ulquiorra Shifar 6",
+    "type": "red",
+    "quote": "\"Are your eyes able to see it? The emptiness of everything in this world.\"",
+    "soulTrait": "Strong attack damage +25%",
+    "stats": {
+        "sta": 1057,
+        "atk": 640,
+        "def": 357,
+        "fcs": 338,
+        "sp": 769
+    },
+    "raidTab": [3, 2, 4, 7],
+    "raidChar": [15, 43, 0, 50],
+    "id": 126,
+    "_id": "1033-7cea0167-79e5-4c1e-9385-c5676595d306"
+}, {
+    "name": "Uryu Ishida(The Bond version)",
+    "char": "Uryu Ishida 6",
+    "type": "purple",
+    "quote": "\"I'm not an ordinary human, I am a Quincy.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1047,
+        "atk": 645,
+        "def": 352,
+        "fcs": 347,
+        "sp": 770
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [23, 31, 47],
+    "id": 125,
+    "_id": "1045-06c96467-80e5-4632-b5ae-755ce8ab9c55"
+}, {
+    "name": "Yasutora \"Chad\" Sado(The Bond version)",
+    "char": "Yasutora \"Chad\" Sado 6",
+    "type": "blue",
+    "quote": "\"When I'm in a battle, I always fight at full strength. \"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 1081,
+        "atk": 733,
+        "def": 388,
+        "fcs": 356,
+        "sp": 602
+    },
+    "raidTab": [4, 5, 7],
+    "raidChar": [23, 40, 58],
+    "id": 124,
+    "_id": "1046-6eb9d3cd-8c3b-4edb-b195-a2f028e995d3"
+}, {
+    "name": "Gin Ichimaru(Spirit Society version)",
+    "char": "Gin Ichimaru 6",
+    "type": "blue",
+    "quote": "\"Oh, dear. I'm not really interested in a territorial battle with a demon.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1052,
+        "atk": 636,
+        "def": 359,
+        "fcs": 341,
+        "sp": 765
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 123,
+    "_id": "1047-6c065f3c-27d9-4033-9835-fc362de32c21"
+}, {
+    "name": "Grimmjow Jeagerjaques(Spirit Society version)",
+    "char": "Grimmjow Jeagerjaques 6",
+    "type": "green",
+    "quote": "\" I am the king of demons!\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1042,
+        "atk": 642,
+        "def": 361,
+        "fcs": 333,
+        "sp": 774
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 122,
+    "_id": "1022-e1659886-c7f6-43ce-afcb-97b119869e91"
+}, {
+    "name": "Rukia Kuchiki(Spirit Society version)",
+    "char": "Rukia Kuchiki 6",
+    "type": "red",
+    "quote": "\"Idiot! This is not a world in which humans belong. This is the Spirit Society.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1042,
+        "atk": 641,
+        "def": 352,
+        "fcs": 342,
+        "sp": 774
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 121,
+    "_id": "1023-90f6781c-5fde-425c-b978-48e16fe742f9"
+}, {
+    "name": "Kugo Ginjo(The Bond version)",
+    "char": "Kugo Ginjo 6",
+    "type": "green",
+    "quote": "\"Now your Fullbring is mine!\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1059,
+        "atk": 634,
+        "def": 352,
+        "fcs": 337,
+        "sp": 765
+    },
+    "raidTab": [2, 4, 3, 7],
+    "raidChar": [23, 43, 5, 71],
+    "id": 120,
+    "_id": "1024-129c326e-3d59-4921-8849-9c0100732da1"
+}, {
+    "name": "Shukuro Tsukishima(The Bond version)",
+    "char": "Shukuro Tsukishima 6",
+    "type": "orange",
+    "quote": "\"Could it be you're having doubts about your past?\"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 1053,
+        "atk": 641,
+        "def": 361,
+        "fcs": 334,
+        "sp": 757
+    },
+    "raidTab": [4, 5, 7],
+    "raidChar": [31, 5, 50],
+    "id": 119,
+    "_id": "1034-2677ce96-de88-4bbf-8643-844d2776da45"
+}, {
+    "name": "Riruka Dokugamine(The Bond version)",
+    "char": "Riruka Dokugamine 6",
+    "type": "blue",
+    "quote": "\"You don't want to get killed, do you? Ah, you suck!\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1040,
+        "atk": 640,
+        "def": 359,
+        "fcs": 345,
+        "sp": 761
+    },
+    "raidTab": [6, 3, 7],
+    "raidChar": [23, 20, 47],
+    "id": 118,
+    "_id": "1035-f9f110bc-4771-46b6-9038-160bcfceaf8b"
+}, {
+    "name": "Riruka Dokugamine(Halloween version)",
+    "char": "Riruka Dokugamine 6",
+    "type": "purple",
+    "quote": "\"My cute friends, today is our Halloween party!\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1047,
+        "atk": 638,
+        "def": 356,
+        "fcs": 337,
+        "sp": 765
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 117,
+    "_id": "0932-af1f2e1f-b83d-45cd-b4fc-00e2cc0a07fd"
+}, {
+    "name": "Tier Halibel(Halloween version)",
+    "char": "Tier Halibel 6",
+    "type": "red",
+    "quote": "\"Trick or treat! Let the sound of my bass decide your fate!\"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 1047,
+        "atk": 762,
+        "def": 368,
+        "fcs": 346,
+        "sp": 620
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 116,
+    "_id": "0934-fa9fa477-53ed-44d8-9baa-b44a0713e123"
+}, {
+    "name": "Ichigo Kurosaki(Thousand-Year Blood War version)",
+    "char": "Ichigo Kurosaki 6",
+    "type": "green",
+    "quote": "\"You and that guy... both are Zangetsu!\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1042,
+        "atk": 771,
+        "def": 367,
+        "fcs": 336,
+        "sp": 626
+    },
+    "raidTab": [4, 4, 7],
+    "raidChar": [16, 8, 2],
+    "id": 115,
+    "_id": "1036-36620dd8-83ce-4616-ba09-5ac9dc6fe76a"
+}, {
+    "name": "Rukia Kuchiki(Thousand-Year Blood War version)",
+    "char": "Rukia Kuchiki 6",
+    "type": "blue",
+    "quote": "\"Watch and be frightened. This is the real Sode No Shirayuki!\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1046,
+        "atk": 648,
+        "def": 357,
+        "fcs": 345,
+        "sp": 745
+    },
+    "raidTab": [4, 3, 8],
+    "raidChar": [35, 43, 6],
+    "id": 114,
+    "_id": "0933-43195412-4e9f-457d-ac7e-070e4d0cc65a"
+}, {
+    "name": "Yachiru Kusajishi(Halloween version)",
+    "char": "Yachiru Kusajishi 6",
+    "type": "green",
+    "quote": "\"Even if you give me treats, I'll still play a trick on you!\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1052,
+        "atk": 754,
+        "def": 352,
+        "fcs": 345,
+        "sp": 638
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 113,
+    "_id": "1028-c606dd21-8031-4558-9b1f-19fdac9849b6"
+}, {
+    "name": "Renji Abarai(Thousand-Year Blood War version)",
+    "char": "Renji Abarai 6",
+    "type": "red",
+    "quote": "\"Bankai! So-Oh Zabimaru!\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1059,
+        "atk": 652,
+        "def": 350,
+        "fcs": 328,
+        "sp": 751
+    },
+    "raidTab": [4, 5, 7],
+    "raidChar": [20, 6, 53],
+    "id": 112,
+    "_id": "1016-16fe2412-c1ca-429c-bedb-251baf8896f3"
+}, {
+    "name": "Yukio Hans Vorarlberna(The Bond version)",
+    "char": "Yukio Hans Vorarlberna 6",
+    "type": "orange",
+    "quote": "\"You don't understand. As god of this dimension, I can do anything.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1017,
+        "atk": 720,
+        "def": 346,
+        "fcs": 323,
+        "sp": 732
+    },
+    "raidTab": [4, 5, 7],
+    "raidChar": [32, 5, 47],
+    "id": 111,
+    "_id": "1020-91f30d23-c9f8-420b-a021-7a46caeb8081"
+}, {
+    "name": "Toshiro Hitsugaya(Tag Team version)",
+    "char": "Toshiro Hitsugaya 6",
+    "type": "green",
+    "quote": "\"Remember where you're from. Remember your home!\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1036,
+        "atk": 638,
+        "def": 358,
+        "fcs": 340,
+        "sp": 765
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [11, 9, 59],
+    "id": 110,
+    "_id": "1029-82bd2d05-559a-4f1c-8254-066f8d7ec778"
+}, {
+    "name": "Marechiyo Omaeda(Tag Team version)",
+    "char": "Marechiyo Omaeda 6",
+    "type": "red",
+    "quote": "\"When we're done, I'm gonna force you to surrender to me.\"",
+    "soulTrait": "Damage inflicted at low STA +30%",
+    "stats": {
+        "sta": 999,
+        "atk": 724,
+        "def": 364,
+        "fcs": 321,
+        "sp": 728
+    },
+    "raidTab": [4, 5, 8],
+    "raidChar": [36, 1, 65],
+    "id": 109,
+    "_id": "1018-ee681bf7-a4ba-48df-a95d-a75e495d78d3"
+}, {
+    "name": "Orihime Inoue(The Bond version)",
+    "char": "Orihime Inoue 6",
+    "type": "purple",
+    "quote": "\"I won't be a burden to him again.\"",
+    "soulTrait": "Damage taken -20%",
+    "stats": {
+        "sta": 1052,
+        "atk": 760,
+        "def": 361,
+        "fcs": 341,
+        "sp": 622
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [23, 5, 54],
+    "id": 108,
+    "_id": "1030-e5073d7a-2fbf-41a0-81f8-5ba5f2b7a935"
+}, {
+    "name": "Ikkaku Madarame(Tag Team version)",
+    "char": "Ikkaku Madarame 6",
+    "type": "blue",
+    "quote": "\"A man's not a man if he can't be himself in battle!\"",
+    "soulTrait": "Damage inflicted at full STA +20%",
+    "stats": {
+        "sta": 1052,
+        "atk": 642,
+        "def": 358,
+        "fcs": 330,
+        "sp": 753
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [30, 12, 68],
+    "id": 107,
+    "_id": "0959-b2ec5707-fef0-4aa5-8d1e-9a62c65dacc5"
+}, {
+    "name": "Jackie Tristan(The Bond version)",
+    "char": "Jackie Tristan 6",
+    "type": "red",
+    "quote": "\"The dirtier my boots get—be it with sand, dirt, mud, blood, rust—the stronger I become.\"",
+    "soulTrait": "Strong attack damage +25%",
+    "stats": {
+        "sta": 1047,
+        "atk": 638,
+        "def": 356,
+        "fcs": 333,
+        "sp": 761
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [23, 6, 47],
+    "id": 106,
+    "_id": "0960-a4f029ce-4b49-4c2f-b857-bcffa8e633c3"
+}, {
+    "name": "Dark Rukia(Movie 3 version)",
+    "char": "Dark Rukia 6",
+    "type": "green",
+    "quote": "\"Kill the Soul Reaper!\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1042,
+        "atk": 646,
+        "def": 356,
+        "fcs": 342,
+        "sp": 741
+    },
+    "raidTab": [4, 4, 7],
+    "raidChar": [35, 42, 6],
+    "id": 105,
+    "_id": "0962-f31982c7-b88e-40de-9fd2-a4fd3f97c69d"
+}, {
+    "name": "Homura & Shizuku(Movie 3 version)",
+    "char": "Homura & Shizuku 6",
+    "type": "purple",
+    "quote": "\"We finally made it back. We came back to see you.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1042,
+        "atk": 754,
+        "def": 356,
+        "fcs": 342,
+        "sp": 632
+    },
+    "raidTab": [4, 5, 7],
+    "raidChar": [24, 20, 70],
+    "id": 104,
+    "_id": "0951-b97af044-8396-471d-9e57-5d02e351b128"
+}, {
+    "name": "Kisuke Urahara(Movie 3 version)",
+    "char": "Kisuke Urahara 6",
+    "type": "red",
+    "quote": "\"I chose this moment because I see you have a crisis happening.\"",
+    "soulTrait": "Recover 25% Stamina between quest areas",
+    "stats": {
+        "sta": 1046,
+        "atk": 765,
+        "def": 350,
+        "fcs": 343,
+        "sp": 622
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [17, 12, 52],
+    "id": 103,
+    "_id": "0949-2c358666-b831-496a-9c2d-94fb09e8c67d"
+}, {
+    "name": "Shuren(Movie 4 version)",
+    "char": "Shuren 6",
+    "type": "green",
+    "quote": "\"We have but one wish: to be released from Hell.\"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 1017,
+        "atk": 701,
+        "def": 346,
+        "fcs": 338,
+        "sp": 712
+    },
+    "raidTab": [7, 4, 4],
+    "raidChar": [21, 43, 7],
+    "id": 102,
+    "_id": "0950-96aad82b-b8fc-44cd-9523-d35c355f1de0"
+}, {
+    "name": "Ichigo Kurosaki(Movie 4 version)",
+    "char": "Ichigo Kurosaki 6",
+    "type": "red",
+    "quote": "\"You can't overcome hatred with more hatred.\"",
+    "soulTrait": "Normal attack damage +25%",
+    "stats": {
+        "sta": 1059,
+        "atk": 762,
+        "def": 359,
+        "fcs": 317,
+        "sp": 616
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [20, 18, 53],
+    "id": 101,
+    "_id": "0423-645c9a7a-6622-4518-bdf3-8a199ae1936a"
+}, {
+    "name": "Kokuto(Movie 4 version)",
+    "char": "Kokuto 6",
+    "type": "blue",
+    "quote": "\"I guess I just don't like watching you people have your way.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1030,
+        "atk": 645,
+        "def": 352,
+        "fcs": 340,
+        "sp": 745
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [42, 6, 70],
+    "id": 100,
+    "_id": "0862-9832410d-5541-4ca0-9749-7efd5b6d797e"
+}, {
+    "name": "Yachiru Unohana(Thousand-Year Blood War version)",
+    "char": "Yachiru Unohana 6",
+    "type": "purple",
+    "quote": "\"Farewell...the one man in this world...who brought me joy.\"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 1024,
+        "atk": 766,
+        "def": 361,
+        "fcs": 335,
+        "sp": 620
+    },
+    "raidTab": [2, 4, 3, 7],
+    "raidChar": [25, 30, 38, 45],
+    "id": 99,
+    "_id": "0863-295ea6b6-88ce-4bd6-a064-2d90f7803120"
+}, {
+    "name": "Kenpachi Zaraki(Thousand-Year Blood War version)",
+    "char": "Kenpachi Zaraki 6",
+    "type": "orange",
+    "quote": "\"Drink, Nozarashi!\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1047,
+        "atk": 649,
+        "def": 352,
+        "fcs": 311,
+        "sp": 745
+    },
+    "raidTab": [1, 4, 4, 7],
+    "raidChar": [17, 38, 10, 60],
+    "id": 98,
+    "_id": "0864-e7af7812-d749-4464-b788-e8aeb42be2ca"
+}, {
+    "name": "Yachiru Kusajishi(Thousand-Year Blood War version)",
+    "char": "Yachiru Kusajishi 6",
+    "type": "red",
+    "quote": "\"Come on out, Sanpo Kenju!\"",
+    "soulTrait": "Strong attack recharge time -14%",
+    "stats": {
+        "sta": 1028,
+        "atk": 627,
+        "def": 374,
+        "fcs": 336,
+        "sp": 737
+    },
+    "raidTab": [5, 2, 2, 7],
+    "raidChar": [30, 34, 10, 60],
+    "id": 97,
+    "_id": "0963-c2d318e0-ed11-4ee7-828f-69e9187c870e"
+}, {
+    "name": "Tier Halibel(Swimsuit version)",
+    "char": "Tier Halibel 6",
+    "type": "orange",
+    "quote": "\"A water fight, huh? It seems my victory is assured.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1030,
+        "atk": 642,
+        "def": 352,
+        "fcs": 333,
+        "sp": 741
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 96,
+    "_id": "0965-5e418411-09b5-4ef9-8663-de78395188c7"
+}, {
+    "name": "Orihime Inoue(Swimsuit version)",
+    "char": "Orihime Inoue 6",
+    "type": "red",
+    "quote": "\"Let's make lots of great summer memories together!\"",
+    "soulTrait": "Damage inflicted at full STA +20%",
+    "stats": {
+        "sta": 1036,
+        "atk": 750,
+        "def": 359,
+        "fcs": 324,
+        "sp": 628
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 95,
+    "_id": "0899-e84a32b1-1890-493d-9037-0ead88e959f9"
+}, {
+    "name": "Soi Fon(Swimsuit version)",
+    "char": "Soi Fon 6",
+    "type": "blue",
+    "quote": "\"A water-covered arena poses no problem for a member of the Stealth Force.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1042,
+        "atk": 755,
+        "def": 356,
+        "fcs": 329,
+        "sp": 614
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 94,
+    "_id": "0900-f6cb846b-fb29-4678-b220-78149b8393c1"
+}, {
+    "name": "Sojiro Kusaka(Movie 2 version)",
+    "char": "Sojiro Kusaka 6",
+    "type": "orange",
+    "quote": "\"What better way to tell you that I'm still alive! Do you believe it now?\"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 1007,
+        "atk": 748,
+        "def": 367,
+        "fcs": 344,
+        "sp": 630
+    },
+    "raidTab": [6, 3, 7],
+    "raidChar": [32, 29, 64],
+    "id": 93,
+    "_id": "0964-9012440a-7f9a-4ad7-a789-8fee7fd7e155"
+}, {
+    "name": "Toshiro Hitsugaya(Movie 2 version)",
+    "char": "Toshiro Hitsugaya 6",
+    "type": "blue",
+    "quote": "\"Kusaka, we will always be friends.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1030,
+        "atk": 638,
+        "def": 347,
+        "fcs": 336,
+        "sp": 745
+    },
+    "raidTab": [3, 6, 7],
+    "raidChar": [32, 9, 52],
+    "id": 92,
+    "_id": "0947-2b5aad49-06fd-4da3-9d84-37a0903f7d62"
+}, {
+    "name": "Shigekuni Genryusai Yamamoto(Tag Team version)",
+    "char": "Shigekuni Genryusai Yamamoto 6",
+    "type": "red",
+    "quote": "\"This is the opportunity I seek!\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1018,
+        "atk": 642,
+        "def": 352,
+        "fcs": 342,
+        "sp": 741
+    },
+    "raidTab": [4, 5, 7],
+    "raidChar": [11, 38, 62],
+    "id": 91,
+    "_id": "0944-b516ca5c-03ef-4f3b-898d-07899ee99849"
+}, {
+    "name": "Shuhei Hisagi(Tag Team version)",
+    "char": "Shuhei Hisagi 6",
+    "type": "orange",
+    "quote": "\"We will fight to protect something. Do I sound like a hypocrite to you?\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1023,
+        "atk": 765,
+        "def": 348,
+        "fcs": 341,
+        "sp": 618
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [9, 6, 59],
+    "id": 90,
+    "_id": "0955-af355774-4808-44b6-a685-1b04c1d40c31"
+}, {
+    "name": "Szayelaporro Grantz(Japanese Parasol version)",
+    "char": "Szayelaporro Grantz 6",
+    "type": "orange",
+    "quote": "\"I hope my wonderful parasol dance is burnt into your memory.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1030,
+        "atk": 646,
+        "def": 345,
+        "fcs": 337,
+        "sp": 737
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 89,
+    "_id": "0901-a2b9bb3f-a51b-4bb2-8776-0730d2088bdb"
+}, {
+    "name": "Izuru Kira(Tag Team version)",
+    "char": "Izuru Kira 6",
+    "type": "purple",
+    "quote": "\"If you are going to die anyway, wouldn't it be preferable to die in one piece?\"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 1028,
+        "atk": 646,
+        "def": 347,
+        "fcs": 336,
+        "sp": 737
+    },
+    "raidTab": [5, 4, 7],
+    "raidChar": [36, 6, 51],
+    "id": 88,
+    "_id": "0945-f704b4ae-7e71-4c35-ba94-e5df3a4089cf"
+}, {
+    "name": "Nelliel Tu Odelschwanck(Japanese Parasol version)",
+    "char": "Nelliel Tu Odelschwanck 6",
+    "type": "green",
+    "quote": "\"You can use a parasol like this, too! They're really useful!\"",
+    "soulTrait": "Normal attack damage +25%",
+    "stats": {
+        "sta": 1030,
+        "atk": 754,
+        "def": 356,
+        "fcs": 326,
+        "sp": 628
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 87,
+    "_id": "0954-3b10bb24-2a84-4409-a56e-04a49f8d121b"
+}, {
+    "name": "Nnoitora Gilga(Japanese Parasol version)",
+    "char": "Nnoitora Gilga 6",
+    "type": "purple",
+    "quote": "\"A parasol can be pretty handy. It just depends how you use it.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1017,
+        "atk": 642,
+        "def": 358,
+        "fcs": 336,
+        "sp": 741
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 86,
+    "_id": "0956-40fff503-efb9-4b7e-af81-efebff0565d4"
+}, {
+    "name": "Nnoitora Gilga(Japanese Parasol version)",
+    "char": "Nnoitora Gilga 6",
+    "type": "purple",
+    "quote": "\"A parasol can be pretty handy. It just depends how you use it.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1017,
+        "atk": 642,
+        "def": 358,
+        "fcs": 336,
+        "sp": 741
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 85,
+    "_id": "0744-ac9300b2-27ed-42c4-b932-18eb711d6254"
+}, {
+    "name": "Yin & Yang(Movie 2 version)",
+    "char": "Yin & Yang 6",
+    "type": "red",
+    "quote": "\"We told you before, if you got in our way, we'd have to eliminate you.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1017,
+        "atk": 762,
+        "def": 352,
+        "fcs": 345,
+        "sp": 618
+    },
+    "raidTab": [3, 6, 8],
+    "raidChar": [18, 31, 70],
+    "id": 84,
+    "_id": "0744-ac9300b2-27ed-42c4-b932-18eb711d6254"
+}, {
+    "name": "Sosuke Aizen(2nd fusion version)",
+    "char": "Sosuke Aizen 6",
+    "type": "green",
+    "quote": "\"\"",
+    "soulTrait": "Damage inflicted at full STA +20%",
+    "stats": {
+        "sta": 1034,
+        "atk": 636,
+        "def": 346,
+        "fcs": 336,
+        "sp": 741
+    },
+    "raidTab": [2, 2, 2],
+    "raidChar": [15, 61, 54],
+    "id": 83,
+    "_id": "0744-ac9300b2-27ed-42c4-b932-18eb711d6254"
+}, {
+    "name": "Sosuke Aizen(2nd fusion version)",
+    "char": "Sosuke Aizen 6",
+    "type": "orange",
+    "quote": "\"\"",
+    "soulTrait": "Damage inflicted at full STA +20%",
+    "stats": {
+        "sta": 1034,
+        "atk": 636,
+        "def": 346,
+        "fcs": 336,
+        "sp": 741
+    },
+    "raidTab": ["2", "2", "2"],
+    "raidChar": [15, 61, 54],
+    "id": 82,
+    "_id": "0744-ac9300b2-27ed-42c4-b932-18eb711d6254"
+}, {
+    "name": "Sosuke Aizen(2nd fusion version)",
+    "char": "Sosuke Aizen 6",
+    "type": "blue",
+    "quote": "\"\"",
+    "soulTrait": "Damage inflicted at full STA +20%",
+    "stats": {
+        "sta": 1034,
+        "atk": 636,
+        "def": 346,
+        "fcs": 336,
+        "sp": 741
+    },
+    "raidTab": ["2", "2", "2"],
+    "raidChar": [15, 61, 54],
+    "id": 81,
+    "_id": "0744-ac9300b2-27ed-42c4-b932-18eb711d6254"
+}, {
+    "name": "Sosuke Aizen(2nd fusion version)",
+    "char": "Sosuke Aizen 6",
+    "type": "red",
+    "quote": "\"\"",
+    "soulTrait": "Damage inflicted at full STA +20%",
+    "stats": {
+        "sta": 1034,
+        "atk": 636,
+        "def": 346,
+        "fcs": 336,
+        "sp": 741
+    },
+    "raidTab": ["2", "2", "2"],
+    "raidChar": [15, 61, 54],
+    "id": 80,
+    "_id": "0937-06013e6f-9560-495e-8cd7-d869ffaf7475"
+}, {
+    "name": "Sosuke Aizen(2nd fusion version)",
+    "char": "Sosuke Aizen 6",
+    "type": "purple",
+    "quote": "\"\"",
+    "soulTrait": "Damage inflicted at full STA +20%",
+    "stats": {
+        "sta": 1034,
+        "atk": 636,
+        "def": 346,
+        "fcs": 336,
+        "sp": 741
+    },
+    "raidTab": [2, 2, 2],
+    "raidChar": [15, 61, 54],
+    "id": 79,
+    "_id": "0935-31174c25-6ac3-48ec-9a88-96d6d4505f21"
+}, {
+    "name": "Marechiyo Omaeda",
+    "char": "Marechiyo Omaeda 6",
+    "type": "blue",
+    "quote": "\"You should be more careful about judging people based on their appearance.\"",
+    "soulTrait": "Crystal/Jewel drop +17%",
+    "stats": {
+        "sta": 1023,
+        "atk": 653,
+        "def": 343,
+        "fcs": 341,
+        "sp": 729
+    },
+    "raidTab": ["4", "5", "7"],
+    "raidChar": [33, 1, 51],
+    "id": 78,
+    "_id": "0936-d477f06b-e87d-49da-9863-a2ef93d23af2"
+}, {
+    "name": "Momo Hinamori",
+    "char": "Momo Hinamori 6",
+    "type": "orange",
+    "quote": "\"He betrayed the Soul Society. He is our enemy.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1018,
+        "atk": 641,
+        "def": 352,
+        "fcs": 340,
+        "sp": 737
+    },
+    "raidTab": ["6", "3", "7"],
+    "raidChar": [4, 9, 65],
+    "id": 77,
+    "_id": "0454-0646db36-4fbe-4427-9a87-88b4ccb24890"
+}, {
+    "name": "Momo Hinamori",
+    "char": "Momo Hinamori 6",
+    "type": "orange",
+    "quote": "\"He betrayed the Soul Society. He is our enemy.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1018,
+        "atk": 641,
+        "def": 352,
+        "fcs": 340,
+        "sp": 737
+    },
+    "raidTab": ["6", "3", "7"],
+    "raidChar": [4, 9, 65],
+    "id": 76,
+    "_id": "0859-682bac64-e823-4406-8cb8-1411efd151e9"
+}, {
+    "name": "Rangiku Matsumoto",
+    "char": "Rangiku Matsumoto 6",
+    "type": "green",
+    "quote": "\"The title of lieutenant demands that it should never be taken so lightly, no matter what.\"",
+    "soulTrait": "Recover 25% Stamina between quest areas",
+    "stats": {
+        "sta": 1023,
+        "atk": 649,
+        "def": 345,
+        "fcs": 338,
+        "sp": 733
+    },
+    "raidTab": ["5", "4", "7"],
+    "raidChar": [34, 10, 64],
+    "id": 75,
+    "_id": "0908-e28c66dd-bb52-4d3c-b20a-fc4b4af56408"
+}, {
+    "name": "Senna(Movie 1 version)",
+    "char": "Senna 6",
+    "type": "red",
+    "quote": "\"Bring them to the twilight, Mirokumaru!\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1017,
+        "atk": 640,
+        "def": 352,
+        "fcs": 334,
+        "sp": 741
+    },
+    "raidTab": ["2", "7", "8"],
+    "raidChar": [20, 42, 53],
+    "id": 74,
+    "_id": "0903-d4c16e29-8854-4e5d-a14a-9559860f9c56"
+}, {
+    "name": "Shukuro Tsukishima(Cacao Society version)",
+    "char": "Shukuro Tsukishima 6",
+    "type": "blue",
+    "quote": "\"In return, allow me to cast a spell on you, a spell that will never end.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1001,
+        "atk": 731,
+        "def": 356,
+        "fcs": 331,
+        "sp": 665
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 73,
+    "_id": "0904-4206c7e5-b911-40e5-93c3-ca7c6584f614"
+}, {
+    "name": "Coyote Stark(Cacao Society version)",
+    "char": "Coyote Stark 6",
+    "type": "purple",
+    "quote": "\"Let's finish this quickly and get back to the castle. You can come too.\"",
+    "soulTrait": "Strong attack damage +25%",
+    "stats": {
+        "sta": 1007,
+        "atk": 645,
+        "def": 352,
+        "fcs": 338,
+        "sp": 741
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 72,
+    "_id": "0905-6de58d53-c142-4722-8d92-d540b8fb32a8"
+}, {
+    "name": "Kaname Tosen",
+    "char": "Kaname Tosen 6",
+    "type": "purple",
+    "quote": "\"If it's not enough to believe in justice, then I swear I will become justice. \"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1018,
+        "atk": 645,
+        "def": 345,
+        "fcs": 338,
+        "sp": 737
+    },
+    "raidTab": ["5", "4", "7"],
+    "raidChar": [30, 36, 73],
+    "id": 71,
+    "_id": "0907-b4bc72e3-9e83-4d93-a4bb-e7d82353d76b"
+}, {
+    "name": "Kisuke Urahara(Cacao Society version)",
+    "char": "Kisuke Urahara 6",
+    "type": "orange",
+    "quote": "\"Let me show you how serious I am.\"",
+    "soulTrait": "Recover 25% Stamina between quest areas",
+    "stats": {
+        "sta": 1034,
+        "atk": 644,
+        "def": 346,
+        "fcs": 327,
+        "sp": 732
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 70,
+    "_id": "0909-2a31e635-1435-4b43-94fb-736b72ae967f"
+}, {
+    "name": "Mayuri Kurotsuchi",
+    "char": "Mayuri Kurotsuchi 6",
+    "type": "red",
+    "quote": "\"Why don't you come work for me as my research subject?\"",
+    "soulTrait": "Damage taken -20%",
+    "stats": {
+        "sta": 1007,
+        "atk": 642,
+        "def": 349,
+        "fcs": 344,
+        "sp": 741
+    },
+    "raidTab": ["9", "7"],
+    "raidChar": [18, 50],
+    "id": 69,
+    "_id": "0861-5b7e3eff-9ba2-4a68-b3d3-3b13b22edb00"
+}, {
+    "name": "Shigekuni Genryusai Yamamoto(One-armed version)",
+    "char": "Shigekuni Genryusai Yamamoto 6",
+    "type": "green",
+    "quote": "\"Even with only one arm, my powers are more than enough to stop both of you from taking me down.\"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 1013,
+        "atk": 758,
+        "def": 356,
+        "fcs": 328,
+        "sp": 628
+    },
+    "raidTab": ["3", "6", "7"],
+    "raidChar": [13, 38, 71],
+    "id": 68,
+    "_id": "0896-d3802974-066a-4073-9576-1d25c5ccc87b"
+}, {
+    "name": "Ichigo Kurosaki(Movie 1 version)",
+    "char": "Ichigo Kurosaki 6",
+    "type": "purple",
+    "quote": "\"We'll see who looks foolish after I walk out of here with Senna.\"",
+    "soulTrait": "Strong attack recharge time -14%",
+    "stats": {
+        "sta": 1013,
+        "atk": 641,
+        "def": 354,
+        "fcs": 329,
+        "sp": 745
+    },
+    "raidTab": ["9", "3", "2", "2"],
+    "raidChar": [42, 70, 63, 55],
+    "id": 67,
+    "_id": "0860-434c9deb-653a-43ac-8e91-a6b92c6e7ce0"
+}, {
+    "name": "Tier Halibel(Cacao Society version)",
+    "char": "Tier Halibel 6",
+    "type": "green",
+    "quote": "\"To protect the peace of the Cacao Society, I will give you chocolate, or whatever else you desire.\"",
+    "soulTrait": "Strong attack recharge time -14%",
+    "stats": {
+        "sta": 1001,
+        "atk": 642,
+        "def": 363,
+        "fcs": 333,
+        "sp": 741
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 66,
+    "_id": "0897-dcb71473-6893-45ea-b707-cc20a3edef4f"
+}, {
+    "name": "Ganryu(Movie 1 version)",
+    "char": "Ganryu 6",
+    "type": "blue",
+    "quote": "\"We are from the Clan of Darkness, the Dark One.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1047,
+        "atk": 756,
+        "def": 345,
+        "fcs": 320,
+        "sp": 610
+    },
+    "raidTab": ["3", "6", "3", "4"],
+    "raidChar": [30, 42, 69, 64],
+    "id": 65,
+    "_id": "0898-f0f2bc39-84b8-4e55-9f7e-8cd16b82c6e8"
+}, {
+    "name": "Yoruichi Shihoin(Cacao Society version)",
+    "char": "Yoruichi Shihoin 6",
+    "type": "blue",
+    "quote": "\"Do you want some of my chocolate? I'll give you some if you do.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 995,
+        "atk": 649,
+        "def": 361,
+        "fcs": 340,
+        "sp": 733
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 64,
+    "_id": "0842-55323533-f1fa-421a-ad39-a22a05e05aba"
+}, {
+    "name": "Nanao Ise(Cacao Society version)",
+    "char": "Nanao Ise 6",
+    "type": "red",
+    "quote": "\"The magical tomes of the Cacao Society contain incredible power.\"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 1017,
+        "atk": 655,
+        "def": 352,
+        "fcs": 332,
+        "sp": 720
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 63,
+    "_id": "0841-71524de4-d122-4db6-b223-2f7f24f75d4a"
+}, {
+    "name": "Shunsui Kyoraku(Thousand-Year Blood War version)",
+    "char": "Shunsui Kyoraku 6",
+    "type": "blue",
+    "quote": "\"Who do you think I am? I'm the Head Captain of the 13 Court Guard Squads, Shunsui Kyoraku!\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 995,
+        "atk": 646,
+        "def": 361,
+        "fcs": 335,
+        "sp": 737
+    },
+    "raidTab": ["6", "3", "5", "2"],
+    "raidChar": [25, 15, 11, 4],
+    "id": 62,
+    "_id": "0844-8ae440a5-0067-4670-a389-c4d60d698de3"
+}, {
+    "name": "Sajin Komamura(Thousand-Year Blood War version)",
+    "char": "Sajin Komamura 6",
+    "type": "orange",
+    "quote": "\"The moment I stepped foot into this battle I left my life behind.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1030,
+        "atk": 762,
+        "def": 350,
+        "fcs": 315,
+        "sp": 616
+    },
+    "raidTab": ["5", "2", "2", "8"],
+    "raidChar": [25, 22, 1, 59],
+    "id": 61,
+    "_id": "0843-6fcab33b-54a4-4f92-862a-8719d433408c"
+}, {
+    "name": "Toshiro Hitsugaya(Thousand-Year Blood War version)",
+    "char": "Toshiro Hitsugaya 6",
+    "type": "red",
+    "quote": "\"In order for Daiguren Hyorinmaru to finally achieve its full potential, I've aged a bit.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1005,
+        "atk": 638,
+        "def": 354,
+        "fcs": 327,
+        "sp": 749
+    },
+    "raidTab": ["9", "3", "2", "3"],
+    "raidChar": [17, 60, 66, 68],
+    "id": 60,
+    "_id": "0893-e9e34a81-8979-4490-b749-12bf25a22b46"
+}, {
+    "name": "Byakuya Kuchiki(Thousand-Year Blood War version)",
+    "char": "Byakuya Kuchiki 6",
+    "type": "green",
+    "quote": "\"Know that nothing can be protected by a sword swung in exchange for one's life.\"",
+    "soulTrait": "Damage inflicted at full STA +20%",
+    "stats": {
+        "sta": 1005,
+        "atk": 697,
+        "def": 355,
+        "fcs": 332,
+        "sp": 683
+    },
+    "raidTab": ["1", "1", "7", "8"],
+    "raidChar": [17, 36, 20, 53],
+    "id": 59,
+    "_id": "0894-9142738a-c2c4-4d93-8900-3312e60fdf96"
+}, {
+    "name": "Lisa Yadomaru(The Past version)",
+    "char": "Lisa Yadomaru 6",
+    "type": "blue",
+    "quote": "\"Don't underestimate me!\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1011,
+        "atk": 638,
+        "def": 340,
+        "fcs": 334,
+        "sp": 741
+    },
+    "raidTab": ["5", "4", "7"],
+    "raidChar": [13, 11, 48],
+    "id": 58,
+    "_id": "0895-37b3b9e7-508f-47bf-abf7-adf5b687dc06"
+}, {
+    "name": "Mashiro Kuna(The Past version)",
+    "char": "Mashiro Kuna 6",
+    "type": "purple",
+    "quote": "\"Heheh! This is the power of a lieutenant!\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1018,
+        "atk": 638,
+        "def": 343,
+        "fcs": 327,
+        "sp": 737
+    },
+    "raidTab": ["4", "5", "7"],
+    "raidChar": [27, 36, 49],
+    "id": 57,
+    "_id": "0887-9861406c-e846-40b1-a097-e09adca9a1d4"
+}, {
+    "name": "Hiyori Sarugaki(The Past version)",
+    "char": "Hiyori Sarugaki 6",
+    "type": "green",
+    "quote": "\"I'm the lieutenant of Squad 12.\"",
+    "soulTrait": "Strong attack damage +25%",
+    "stats": {
+        "sta": 1024,
+        "atk": 644,
+        "def": 345,
+        "fcs": 313,
+        "sp": 735
+    },
+    "raidTab": ["4", "5", "7"],
+    "raidChar": [22, 3, 73],
+    "id": 56,
+    "_id": "0879-7fe8277f-1bbd-4740-a7c3-0f20b35e587e"
+}, {
+    "name": "Rukia Kuchiki(The Lost Agent/Christmas version)",
+    "char": "Rukia Kuchiki 6",
+    "type": "orange",
+    "quote": "\"Christmas certainly is an enjoyable event!\"",
+    "soulTrait": "Damage inflicted at full STA +20%",
+    "stats": {
+        "sta": 1034,
+        "atk": 619,
+        "def": 343,
+        "fcs": 316,
+        "sp": 741
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 55,
+    "_id": "0880-51e8729a-1ece-45a8-a9af-4ce18663e6cc"
+}, {
+    "name": "Riruka Dokugamine(The Lost Agent/Christmas version)",
+    "char": "Riruka Dokugamine 6",
+    "type": "red",
+    "quote": "\"I don't have anything against Christmas, apart from Santa not being cute.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1017,
+        "atk": 632,
+        "def": 346,
+        "fcs": 325,
+        "sp": 732
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 54,
+    "_id": "0888-f359ed10-c481-4484-9e70-6dc8df447948"
+}, {
+    "name": "Sosuke Aizen(4th fusion version)",
+    "char": "Sosuke Aizen 6",
+    "type": "green",
+    "quote": "\"A full incantation Kurohitsugi performed by one who transcends both Hollow and Soul Reaper!\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 989,
+        "atk": 623,
+        "def": 358,
+        "fcs": 329,
+        "sp": 753
+    },
+    "raidTab": ["9", "7"],
+    "raidChar": [15, 61],
+    "id": 53,
+    "_id": "0889-9c9a80c3-08aa-4a2d-b7c1-141c230324a8"
+}, {
+    "name": "Ururu Tsumugiya(The Lost Agent/Christmas version)",
+    "char": "Ururu Tsumugiya 6",
+    "type": "green",
+    "quote": "\"It's Christmas, so I bring you good cheer.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1018,
+        "atk": 748,
+        "def": 352,
+        "fcs": 320,
+        "sp": 614
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 52,
+    "_id": "0881-aa7175cf-116b-4f7f-baed-1d07e14d820f"
+}, {
+    "name": "White Zangetsu",
+    "char": "White Zangetsu 6",
+    "type": "orange",
+    "quote": "\"We are the same. The two of us are your power.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1013,
+        "atk": 755,
+        "def": 343,
+        "fcs": 331,
+        "sp": 610
+    },
+    "raidTab": ["7", "9"],
+    "raidChar": [29, 8],
+    "id": 51,
+    "_id": "0796-debf6bdf-05da-4872-acbf-541c17c6d343"
+}, {
+    "name": "Isshin Kurosaki",
+    "char": "Isshin Kurosaki 6",
+    "type": "blue",
+    "quote": "\"Sounds like you've matured.\"",
+    "soulTrait": "Normal attack damage +25%",
+    "stats": {
+        "sta": 1047,
+        "atk": 743,
+        "def": 347,
+        "fcs": 311,
+        "sp": 603
+    },
+    "raidTab": ["9", "7"],
+    "raidChar": [43, 58],
+    "id": 50,
+    "_id": "0808-eea1de8c-5aaf-4435-9b5a-050c2e3e07ee"
+}, {
+    "name": "Ichigo Kurosaki(2nd Anniversary version)",
+    "char": "Ichigo Kurosaki 6",
+    "type": "blue",
+    "quote": "\"I want the power to protect everything that is important to me.\"",
+    "soulTrait": "Strong attack damage +25%",
+    "stats": {
+        "sta": 1007,
+        "atk": 627,
+        "def": 356,
+        "fcs": 331,
+        "sp": 729
+    },
+    "raidTab": ["6", "8", "7"],
+    "raidChar": [24, 29, 54],
+    "id": 49,
+    "_id": "0857-d968fe81-5513-4796-bd15-8e89728f3c41"
+}, {
+    "name": "Ichigo Kurosaki(Tag Team version)",
+    "char": "Ichigo Kurosaki 6",
+    "type": "red",
+    "quote": "\"It's who I am. And obviously you are a part of me. It's as simple as that.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1001,
+        "atk": 634,
+        "def": 363,
+        "fcs": 323,
+        "sp": 725
+    },
+    "raidTab": ["7", "7"],
+    "raidChar": [29, 16],
+    "id": 48,
+    "_id": "0748-676632a1-7358-4464-b05b-75075f116d32"
+}, {
+    "name": "Shinji Hirako(The Lost Agent version)",
+    "char": "Shinji Hirako 6",
+    "type": "orange",
+    "quote": "\"Do you even realize what it is that you're asking?\"",
+    "soulTrait": "Strong attack damage +25%",
+    "stats": {
+        "sta": 1034,
+        "atk": 619,
+        "def": 352,
+        "fcs": 341,
+        "sp": 696
+    },
+    "raidTab": ["9", "9"],
+    "raidChar": [59, 49],
+    "id": 47,
+    "_id": "0856-510397f2-449b-451c-adda-1ead93154a03"
+}, {
+    "name": "Ichigo Kurosaki(The Lost Agent version)",
+    "char": "Ichigo Kurosaki 6",
+    "type": "green",
+    "quote": "\"I chose the path of protecting others.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 995,
+        "atk": 638,
+        "def": 361,
+        "fcs": 325,
+        "sp": 721
+    },
+    "raidTab": ["3", "3", "7", "2", "2", "2"],
+    "raidChar": [35, 30, 20, 60, 53, 64],
+    "id": 46,
+    "_id": "0806-3b2d1b31-3f95-45c8-8652-8dbb212743c0"
+}, {
+    "name": "Soi Fon(The Lost Agent version)",
+    "char": "Soi Fon 6",
+    "type": "green",
+    "quote": "\"We are all desperately trying to defeat this monster.\"",
+    "soulTrait": "Strong attack recharge time -14%",
+    "stats": {
+        "sta": 1007,
+        "atk": 645,
+        "def": 338,
+        "fcs": 325,
+        "sp": 725
+    },
+    "raidTab": ["9", "8"],
+    "raidChar": [41, 51],
+    "id": 45,
+    "_id": "0807-328897fc-d6b9-4970-9d03-90147f2eecd0"
+}, {
+    "name": "Orihime Inoue(Halloween version)",
+    "char": "Orihime Inoue 6",
+    "type": "blue",
+    "quote": "\"Give me something good to eat. If you don't, you'll be abducted by aliens!\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1013,
+        "atk": 638,
+        "def": 340,
+        "fcs": 315,
+        "sp": 733
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 44,
+    "_id": "0858-4a611294-d6fa-4823-aa29-15739e94c7ae"
+}, {
+    "name": "Ryuken Ishida(The Lost Agent version)",
+    "char": "Ryuken Ishida 6",
+    "type": "purple",
+    "quote": "\"You're not in any position to be telling your doctor what he should and shouldn't do.\"",
+    "soulTrait": "Damage taken -20%",
+    "stats": {
+        "sta": 1036,
+        "atk": 754,
+        "def": 325,
+        "fcs": 333,
+        "sp": 591
+    },
+    "raidTab": ["9", "8"],
+    "raidChar": [18, 58],
+    "id": 43,
+    "_id": "0750-f2a97648-e84a-4e50-aec9-1d6a71b8c0a4"
+}, {
+    "name": "Soi Fon(Halloween version)",
+    "char": "Soi Fon 6",
+    "type": "red",
+    "quote": "\"If Lady Yoruichi is taking part, I will not hesitate to join as well.\"",
+    "soulTrait": "Recover 20% Stamina between quest areas",
+    "stats": {
+        "sta": 1001,
+        "atk": 634,
+        "def": 325,
+        "fcs": 342,
+        "sp": 737
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 42,
+    "_id": "0805-d856355a-6afa-4f69-a9be-e3ec7c66e02d"
+}, {
+    "name": "Kugo Ginjo(The Lost version)",
+    "char": "Kugo Ginjo 6",
+    "type": "orange",
+    "quote": "\"My goal is to crush the Soul Reapers who betrayed me.\"",
+    "soulTrait": "Damage inflicted at low STA +30%",
+    "stats": {
+        "sta": 1028,
+        "atk": 657,
+        "def": 390,
+        "fcs": 323,
+        "sp": 639
+    },
+    "raidTab": ["3", "7", "7"],
+    "raidChar": [29, 23, 47],
+    "id": 41,
+    "_id": "0837-673099de-c3da-4427-95ae-b1a0ea153052"
+}, {
+    "name": "Yoruichi Shihoin(Halloween version)",
+    "char": "Yoruichi Shihoin 6",
+    "type": "purple",
+    "quote": "\"If you're willing to give me your treats, I wouldn't mind showing you a good time. \"",
+    "soulTrait": "Normal attack damage +25%",
+    "stats": {
+        "sta": 1040,
+        "atk": 752,
+        "def": 331,
+        "fcs": 321,
+        "sp": 593
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 40,
+    "_id": "0797-7c135b1b-0d2a-4f39-9def-c3a38679bb1c"
+}, {
+    "name": "Barragan Ruizenban",
+    "char": "Barragan Ruizenban 6",
+    "type": "orange",
+    "quote": "\"I am the emperor, Barragan Ruizenban.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1011,
+        "atk": 627,
+        "def": 336,
+        "fcs": 332,
+        "sp": 729
+    },
+    "raidTab": ["9", "7"],
+    "raidChar": [33, 51],
+    "id": 39,
+    "_id": "0798-eec42098-3405-4b87-9842-b6237198ec92"
+}, {
+    "name": "Coyote Stark",
+    "char": "Coyote Stark 6",
+    "type": "purple",
+    "quote": "\"When we are reunited as one, our power becomes fully released.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1030,
+        "atk": 747,
+        "def": 343,
+        "fcs": 315,
+        "sp": 599
+    },
+    "raidTab": ["7", "7"],
+    "raidChar": [13, 11],
+    "id": 38,
+    "_id": "0812-afce5a23-a4ef-4ec4-a72f-b82db62d81dc"
+}, {
+    "name": "Renji Abarai(Tag Team version)",
+    "char": "Renji Abarai 6",
+    "type": "purple",
+    "quote": "\"I may have some weaknesses, but as long as I continue to strive for greatness, I think I'll become stronger.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1005,
+        "atk": 630,
+        "def": 343,
+        "fcs": 330,
+        "sp": 725
+    },
+    "raidTab": ["9", "4", "3"],
+    "raidChar": [20, 55, 54],
+    "id": 37,
+    "_id": "0810-d3123ff4-1070-453e-8aa5-cba3fc127e76"
+}, {
+    "name": "Tier Halibel",
+    "char": "Tier Halibel 6",
+    "type": "blue",
+    "quote": "\"The darkness of Hueco Mundo... I wish there was some quiet darkness.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1011,
+        "atk": 684,
+        "def": 374,
+        "fcs": 305,
+        "sp": 659
+    },
+    "raidTab": ["7", "7"],
+    "raidChar": [32, 26],
+    "id": 36,
+    "_id": "0838-a88614f7-4470-49b6-b3a2-a00a50b0f858"
+}, {
+    "name": "Koga Kuchiki(Tag Team version)",
+    "char": "Koga Kuchiki 6",
+    "type": "green",
+    "quote": "\"You will curse your misfortune for having ever laid eyes on this sword.\"",
+    "soulTrait": "Damage taken -20%",
+    "stats": {
+        "sta": 995,
+        "atk": 687,
+        "def": 356,
+        "fcs": 331,
+        "sp": 663
+    },
+    "raidTab": ["7", "7"],
+    "raidChar": [35, 20],
+    "id": 35,
+    "_id": "0799-d6b973c5-19f1-41a9-a22c-61681b067b6c"
+}, {
+    "name": "Szayelaporro Grantz",
+    "char": "Szayelaporro Grantz 6",
+    "type": "blue",
+    "quote": "\"Showcasing research results is the natural duty of a scientist.\"",
+    "soulTrait": "Normal attack damage +25%",
+    "stats": {
+        "sta": 1001,
+        "atk": 743,
+        "def": 341,
+        "fcs": 339,
+        "sp": 608
+    },
+    "raidTab": ["7", "7"],
+    "raidChar": [17, 18],
+    "id": 34,
+    "_id": "0774-6683d491-a678-422b-9342-c5e5d54aa994"
+}, {
+    "name": "Ulquiorra Shifar(Resurreccion Segunda Etapa version)",
+    "char": "Ulquiorra Shifar 6",
+    "type": "orange",
+    "quote": "\"Since you don't understand, I will teach you. This is what true despair looks like.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1001,
+        "atk": 623,
+        "def": 354,
+        "fcs": 324,
+        "sp": 729
+    },
+    "raidTab": ["9", "3", "4"],
+    "raidChar": [28, 50, 74],
+    "id": 33,
+    "_id": "0839-9120faff-7844-4cdd-94be-c3448fde2400"
+}, {
+    "name": "Tensa Zangetsu",
+    "char": "Tensa Zangetsu 6",
+    "type": "green",
+    "quote": "\"What you want to protect is not the same thing that I want to protect.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 988,
+        "atk": 632,
+        "def": 352,
+        "fcs": 330,
+        "sp": 728
+    },
+    "raidTab": ["4", "7", "6"],
+    "raidChar": [15, 29, 54],
+    "id": 32,
+    "_id": "0800-c57091b5-2566-442b-8649-bda18ed77179"
+}, {
+    "name": "Wonderweiss Margera",
+    "char": "Wonderweiss Margera 6",
+    "type": "green",
+    "quote": "\"Wonderweiss... Wonderweiss Margera...\"",
+    "soulTrait": "Fire duration -100%",
+    "stats": {
+        "sta": 955,
+        "atk": 722,
+        "def": 329,
+        "fcs": 320,
+        "sp": 704
+    },
+    "raidTab": ["9", "4", "3"],
+    "raidChar": [25, 71, 56],
+    "id": 31,
+    "_id": "0428-179e9353-0ef5-4973-a385-f6328e1daadb"
+}, {
+    "name": "Retsu Unohana(Tag Team version)",
+    "char": "Retsu Unohana 6",
+    "type": "blue",
+    "quote": "\"We must stand firm when critical situations arise.\"",
+    "soulTrait": "Recover 25% Stamina between quest areas",
+    "stats": {
+        "sta": 1001,
+        "atk": 630,
+        "def": 343,
+        "fcs": 329,
+        "sp": 724
+    },
+    "raidTab": ["8", "4", "4"],
+    "raidChar": [34, 50, 45],
+    "id": 30,
+    "_id": "0802-a00f161b-b106-4454-9c7d-c1cbc249e496"
+}, {
+    "name": "Jushiro Ukitake(Tag Team version)",
+    "char": "Jushiro Ukitake 6",
+    "type": "purple",
+    "quote": "\"I wanna play with them for a while.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1018,
+        "atk": 740,
+        "def": 340,
+        "fcs": 325,
+        "sp": 602
+    },
+    "raidTab": ["8", "7"],
+    "raidChar": [11, 62],
+    "id": 29,
+    "_id": "0487-899f23d2-118e-46a4-92fb-14332305b7ed"
+}, {
+    "name": "Grimmjow Jeagerjaques",
+    "char": "Grimmjow Jeagerjaques 6",
+    "type": "orange",
+    "quote": "\"I am the king!\"",
+    "soulTrait": "Damage taken -20%",
+    "stats": {
+        "sta": 1036,
+        "atk": 619,
+        "def": 354,
+        "fcs": 322,
+        "sp": 692
+    },
+    "raidTab": ["6", "8"],
+    "raidChar": [24, 19],
+    "id": 28,
+    "_id": "0761-988dfadc-6623-4ce3-aa8e-d685efaea5ed"
+}, {
+    "name": "Chojiro Sasakibe(Tag Team version)",
+    "char": "Chojiro Sasakibe 6",
+    "type": "orange",
+    "quote": "\"As long as Genryusai is here, I will serve as his right hand.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 994,
+        "atk": 691,
+        "def": 361,
+        "fcs": 321,
+        "sp": 655
+    },
+    "raidTab": ["8", "7"],
+    "raidChar": [25, 52],
+    "id": 27,
+    "_id": "0233-61f52b0b-8fab-4c11-9d2d-0b818d777cc1"
+}, {
+    "name": "Tetsuzaemon Iba",
+    "char": "Tetsuzaemon Iba 6",
+    "type": "purple",
+    "quote": "\"Once a fight starts, the manliest guy will win.\"",
+    "soulTrait": "Stamina +320",
+    "stats": {
+        "sta": 1104,
+        "atk": 684,
+        "def": 349,
+        "fcs": 301,
+        "sp": 581
+    },
+    "raidTab": ["9", "6"],
+    "raidChar": [39, 57],
+    "id": 26,
+    "_id": "0228-6fb9850f-72db-4966-b4a4-36bc8d4fa0ae"
+}, {
+    "name": "Riruka Dokugamine(Swimsuit version)",
+    "char": "Riruka Dokugamine 6",
+    "type": "orange",
+    "quote": "\"It's only the beach! I'm not going to go crazy like some little kid.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1007,
+        "atk": 750,
+        "def": 341,
+        "fcs": 324,
+        "sp": 595
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 25,
+    "_id": "0803-c01da7d0-696d-416d-b47f-f57893455a57"
+}, {
+    "name": "Nnoitora Gilga(Arms To Killing You version)",
+    "char": "Nnoitora Gilga 6",
+    "type": "red",
+    "quote": "\"If I cut you, it's over!\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1023,
+        "atk": 657,
+        "def": 412,
+        "fcs": 305,
+        "sp": 618
+    },
+    "raidTab": ["4", "7", "5"],
+    "raidChar": [30, 19, 44],
+    "id": 24,
+    "_id": "0427-9e7bffa4-8ea1-414b-b971-47bf0da094b7"
+}, {
+    "name": "Nemu Kurotsuchi(Swimsuit version)",
+    "char": "Nemu Kurotsuchi 6",
+    "type": "red",
+    "quote": "\"Master Mayuri made this inflatable shark for me.\"",
+    "soulTrait": "Recover 20% Stamina between quest areas",
+    "stats": {
+        "sta": 1046,
+        "atk": 667,
+        "def": 343,
+        "fcs": 330,
+        "sp": 626
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 23,
+    "_id": "0742-503dd7c0-bfc1-49c0-8b4a-c811a321806f"
+}, {
+    "name": "Nelliel Tu Odelschwanck(Swimsuit version)",
+    "char": "Nelliel Tu Odelschwanck 6",
+    "type": "purple",
+    "quote": "\"The breeze is delightful. The beach really is a wonderful place.\"",
+    "soulTrait": "Strong attack recharge time -14%",
+    "stats": {
+        "sta": 984,
+        "atk": 634,
+        "def": 340,
+        "fcs": 333,
+        "sp": 720
+    },
+    "raidTab": [],
+    "raidChar": [],
+    "id": 22,
+    "_id": "0755-2cb292c0-4a5e-4957-8bec-0d7bd0568278"
+}, {
+    "name": "Kenpachi Zaraki(The Lost Agent version)",
+    "char": "Kenpachi Zaraki 6",
+    "type": "blue",
+    "quote": "\"What a waste of my time.\"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 1028,
+        "atk": 670,
+        "def": 361,
+        "fcs": 305,
+        "sp": 634
+    },
+    "raidTab": ["9", "4", "4"],
+    "raidChar": [30, 60, 72],
+    "id": 21,
+    "_id": "0764-9d0049d0-0908-4850-b4e3-c0e27c7f8600"
+}, {
+    "name": "Cyan Sun-Sun",
+    "char": "Cyan Sun-Sun 6",
+    "type": "blue",
+    "quote": "\"I will always be at your side, Lady Halibel.\"",
+    "soulTrait": "Strong attack damage +25%",
+    "stats": {
+        "sta": 1007,
+        "atk": 627,
+        "def": 345,
+        "fcs": 318,
+        "sp": 700
+    },
+    "raidTab": ["8", "7"],
+    "raidChar": [26, 66],
+    "id": 20,
+    "_id": "0757-29ce7ce7-a38c-4ada-ab01-7b3ccf9a9592"
+}, {
+    "name": "Franceska Mila Rose",
+    "char": "Franceska Mila Rose 6",
+    "type": "red",
+    "quote": "\"There are things I refuse to compromise on. \"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1030,
+        "atk": 655,
+        "def": 359,
+        "fcs": 313,
+        "sp": 640
+    },
+    "raidTab": ["8", "7"],
+    "raidChar": [26, 66],
+    "id": 19,
+    "_id": "0756-a2bdbcf3-74aa-4cc8-8363-30c3d11db30c"
+}, {
+    "name": "Gin Ichimaru",
+    "char": "Gin Ichimaru 6",
+    "type": "purple",
+    "quote": "\"Kamishininoyari isn't the longest Zanpakuto, but it is the fastest Zanpakuto.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 1018,
+        "atk": 630,
+        "def": 345,
+        "fcs": 312,
+        "sp": 692
+    },
+    "raidTab": ["8", "4", "4"],
+    "raidChar": [32, 65, 66],
+    "id": 18,
+    "_id": "0177-aad18ebe-d641-435b-995b-a89d576dab07"
+}, {
+    "name": "Ichigo Kurosaki(Final Getsugatensho version)",
+    "char": "Ichigo Kurosaki 6",
+    "type": "blue",
+    "quote": "\"I'll show you my final Getsugatensho.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 1006,
+        "atk": 740,
+        "def": 351,
+        "fcs": 308,
+        "sp": 592
+    },
+    "raidTab": ["6", "9", "5"],
+    "raidChar": [24, 15, 70],
+    "id": 17,
+    "_id": "0488-7c0f125a-943c-4ceb-be89-c0a9623ae932"
+}, {
+    "name": "Shukuro Tsukishima(Fullbring version)",
+    "char": "Shukuro Tsukishima 6",
+    "type": "purple",
+    "quote": "\"Soon that isolated feeling inside you will have never existed in the first place.\"",
+    "soulTrait": "Damage inflicted at full STA +20%",
+    "stats": {
+        "sta": 1007,
+        "atk": 627,
+        "def": 347,
+        "fcs": 324,
+        "sp": 692
+    },
+    "raidTab": ["10", "3", "4"],
+    "raidChar": [29, 63, 47],
+    "id": 16,
+    "_id": "0682-39bdb1fd-d670-4acf-b694-e7c17e7dd152"
+}, {
+    "name": "White Ichigo(Fully-Hollowfied version)",
+    "char": "White Ichigo 6",
+    "type": "purple",
+    "quote": "\"A king needs an insatiable hunger to engage in battle.\"",
+    "soulTrait": "Damage inflicted at low STA +30%",
+    "stats": {
+        "sta": 1017,
+        "atk": 665,
+        "def": 356,
+        "fcs": 308,
+        "sp": 651
+    },
+    "raidTab": ["7", "4"],
+    "raidChar": [29, 28],
+    "id": 15,
+    "_id": "0790-2ec761ab-9b84-405f-8b2a-5b97f16eadbd"
+}, {
+    "name": "Yoruichi Shihoin",
+    "char": "Yoruichi Shihoin 6",
+    "type": "red",
+    "quote": "\"They call me the \"Flash Master\" for a reason; You girls couldn't catch me in a hundred years.\"",
+    "soulTrait": "Strong attack damage +25%",
+    "stats": {
+        "sta": 1024,
+        "atk": 634,
+        "def": 336,
+        "fcs": 315,
+        "sp": 688
+    },
+    "raidTab": ["8", "8"],
+    "raidChar": [3, 61],
+    "id": 14,
+    "_id": "0524-1aa29539-b9c2-42ba-be93-de02ad9b29e7"
+}, {
+    "name": "Retsu Unohana",
+    "char": "Retsu Unohana 6",
+    "type": "orange",
+    "quote": "\"To maintain the fighting strength of the 13 Court Guard Squads, that is the role of Squad 4.\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 1034,
+        "atk": 651,
+        "def": 350,
+        "fcs": 305,
+        "sp": 654
+    },
+    "raidTab": ["9", "7"],
+    "raidChar": [52, 45],
+    "id": 13,
+    "_id": "0721-bf356cce-74cd-40f3-9c80-bd4a08a0945f"
+}, {
+    "name": "Uryu Ishida(The Lost Agent version)",
+    "char": "Uryu Ishida 6",
+    "type": "red",
+    "quote": "\"Relax. I'm on your side.\"",
+    "soulTrait": "Normal attack damage +25%",
+    "stats": {
+        "sta": 1024,
+        "atk": 705,
+        "def": 345,
+        "fcs": 328,
+        "sp": 591
+    },
+    "raidTab": ["8", "4", "4"],
+    "raidChar": [23, 64, 54],
+    "id": 12,
+    "_id": "0775-d259510c-31a6-42e4-9376-3100b3f17b9f"
+}, {
+    "name": "Kaname Tosen(Hueco Mundo version)",
+    "char": "Kaname Tosen 6",
+    "type": "blue",
+    "quote": "\"Justice is something mere words can't completely describe.\"",
+    "soulTrait": "Dodge rate +11%",
+    "stats": {
+        "sta": 1034,
+        "atk": 710,
+        "def": 349,
+        "fcs": 314,
+        "sp": 585
+    },
+    "raidTab": ["8", "6"],
+    "raidChar": [15, 57],
+    "id": 11,
+    "_id": "0776-96f9c4a5-89d3-4f5a-9651-6c6005b1d55a"
+}, {
+    "name": "Rukia Kuchiki(The Lost Agent version)",
+    "char": "Rukia Kuchiki 6",
+    "type": "red",
+    "quote": "\"A Soul Reaper's duty is to protect humans, and I don't intend to kill you.\"",
+    "soulTrait": "Strong attack recharge time -14%",
+    "stats": {
+        "sta": 1005,
+        "atk": 638,
+        "def": 370,
+        "fcs": 316,
+        "sp": 655
+    },
+    "raidTab": ["10", "6"],
+    "raidChar": [35, 53],
+    "id": 10,
+    "_id": "0785-84c82b63-40b9-4b5b-879a-13ff570d920c"
+}, {
+    "name": "Ichigo Kurosaki(Fully-Hollowfied version)",
+    "char": "Ichigo Kurosaki 6",
+    "type": "orange",
+    "quote": "\"I will... I will protect you!\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 943,
+        "atk": 701,
+        "def": 336,
+        "fcs": 320,
+        "sp": 608
+    },
+    "raidTab": [4, 5, 7],
+    "raidChar": [28, 31, 50],
+    "id": 9,
+    "_id": "0792-4014dee4-dee1-482a-bdad-b3e468b5969a"
+}, {
+    "name": "Ulquiorra Shifar(Resurreccion Segunda Etapa version)",
+    "char": "Ulquiorra Shifar 6",
+    "type": "purple",
+    "quote": "\"In the palm of my hand...is a heart.\"",
+    "soulTrait": "Strong attack damage +20%",
+    "stats": {
+        "sta": 931,
+        "atk": 627,
+        "def": 340,
+        "fcs": 318,
+        "sp": 671
+    },
+    "raidTab": ["9", "5", "4"],
+    "raidChar": [29, 40, 61],
+    "id": 8,
+    "_id": "0794-6519607c-3333-439f-b8e3-5ee5559e860a"
+}, {
+    "name": "Shigekuni Genryusai Yamamoto",
+    "char": "Shigekuni Genryusai Yamamoto 6",
+    "type": "purple",
+    "quote": "\"All things in the universe turn to ashes, Ryujin Jakka!\"",
+    "soulTrait": "Fire duration -65%",
+    "stats": {
+        "sta": 955,
+        "atk": 655,
+        "def": 327,
+        "fcs": 309,
+        "sp": 579
+    },
+    "raidTab": ["5", "5", "3"],
+    "raidChar": [33, 39, 71],
+    "id": 7,
+    "_id": "0786-a9f0a07e-c7db-4ec6-af54-d9485e7b13c0"
+}, {
+    "name": "Shigekuni Genryusai Yamamoto",
+    "char": "Shigekuni Genryusai Yamamoto 6",
+    "type": "green",
+    "quote": "\"How do you think I remained Head Captain of the 13 Court Guard Squads for over 1000 years?\"",
+    "soulTrait": "Fire duration -65%",
+    "stats": {
+        "sta": 960,
+        "atk": 648,
+        "def": 347,
+        "fcs": 298,
+        "sp": 571
+    },
+    "raidTab": ["13"],
+    "raidChar": [13, 11, 72],
+    "id": 6,
+    "_id": "0749-15ab8914-d308-489a-8ffb-5da6a660abc1"
+}, {
+    "name": "Coyote Stark",
+    "char": "Coyote Stark 6",
+    "type": "green",
+    "quote": "\"Sorry, but I'm number one!\"",
+    "soulTrait": "Strong attack recharge time -12%",
+    "stats": {
+        "sta": 955,
+        "atk": 600,
+        "def": 322,
+        "fcs": 315,
+        "sp": 630
+    },
+    "raidTab": ["5", "6"],
+    "raidChar": [15, 13, 48],
+    "id": 5,
+    "_id": "0770-bca3ee5c-45c3-46fa-93bc-d0d5f0cb739d"
+}, {
+    "name": "Tier Halibel",
+    "char": "Tier Halibel 6",
+    "type": "red",
+    "quote": "\"Your ice dragon is drowned by a single strike from a shark.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 972,
+        "atk": 630,
+        "def": 325,
+        "fcs": 302,
+        "sp": 593
+    },
+    "raidTab": ["9", "6"],
+    "raidChar": [15, 26, 64],
+    "id": 4,
+    "_id": "0485-3c5ce7e9-11a2-4f5f-a7f7-f23c471af248"
+}, {
+    "name": "Isshin Kurosaki",
+    "char": "Isshin Kurosaki 6",
+    "type": "purple",
+    "quote": "\"Are you coming? If not that, then what? You gonna cry?\"",
+    "soulTrait": "Damage taken -16%",
+    "stats": {
+        "sta": 943,
+        "atk": 607,
+        "def": 349,
+        "fcs": 349,
+        "sp": 573
+    },
+    "raidTab": ["12"],
+    "raidChar": [24, 41, 55],
+    "id": 3,
+    "_id": "0672-9be04fbd-f7b3-457c-ad12-fe43506fa472"
+}, {
+    "name": "Orihime Inoue",
+    "char": "Orihime Inoue 6",
+    "type": "orange",
+    "quote": "\"I would have fallen in love with the same person five different times.\"",
+    "soulTrait": "Recover 20% Stamina between quest areas",
+    "stats": {
+        "sta": 953,
+        "atk": 579,
+        "def": 343,
+        "fcs": 292,
+        "sp": 634
+    },
+    "raidTab": ["7", "5"],
+    "raidChar": [43, 31, 66],
+    "id": 2,
+    "_id": "0484-5de813eb-d410-4955-999a-fc14a575c109"
+}, {
+    "name": "Byakuya Kuchiki",
+    "char": "Byakuya Kuchiki 6",
+    "type": "blue",
+    "quote": "\"What you see is what happens when I abandon all defense and risk everything to kill my enemy.\"",
+    "soulTrait": "Normal attack damage +20%",
+    "stats": {
+        "sta": 955,
+        "atk": 592,
+        "def": 322,
+        "fcs": 336,
+        "sp": 593
+    },
+    "raidTab": ["10"],
+    "raidChar": [20, 6, 54],
+    "id": 1,
+    "_id": "0773-2907c6eb-874d-4d38-8a1c-92b714c878da"
+}, {
+    "name": "Ashido Kano",
+    "char": "Ashido Kano 6",
+    "type": "blue",
+    "quote": "\"I'll choose my own path.\"",
+    "soulTrait": "Attack +40",
+    "stats": {
+        "sta": 943,
+        "atk": 655,
+        "def": 320,
+        "fcs": 306,
+        "sp": 562
+    },
+    "raidTab": ["14"],
+    "raidChar": [20, 42, 54],
+    "id": 0,
+    "_id": "0787-17c67b04-da0e-4e2e-bd2d-8e79fbc8c9d4"
+}]

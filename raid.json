@@ -1,0 +1,376 @@
+[{
+    "id": 0,
+    "name": "Barragan Ruizenban(Raid Reward)",
+    "star": 5,
+    "_id": "0232-39a77e1a-431d-40dc-8c67-e46db7d4ba5b"
+}, {
+    "id": 1,
+    "name": "Tetsuzaemon Iba(Raid Reward)",
+    "star": 5,
+    "_id": "0212-0a7847b4-0703-4724-beb4-2286d09cde66"
+}, {
+    "id": 2,
+    "name": "White Zangetsu(Raid Reward)",
+    "star": 5,
+    "_id": "0627-adf51f9a-4959-4e94-9eba-7aaf2dba254c"
+}, {
+    "id": 3,
+    "name": "Kisuke Urahara(Raid Reward)",
+    "star": 5,
+    "_id": "0349-5f8910a1-f77b-4b8a-a677-18bdb4dc28a2"
+}, {
+    "id": 4,
+    "name": "Nanao Ise(Raid Reward)",
+    "star": 5,
+    "_id": "0849-825a9427-a52b-47de-8142-63688a11b4c5"
+}, {
+    "id": 5,
+    "name": "Riruka Dokugamine(Raid Reward)",
+    "star": 5,
+    "_id": "1058-ef81f5fc-c8c2-46e3-8e73-67580a5dec13"
+}, {
+    "id": 6,
+    "name": "Renji Abarai(Raid Reward)",
+    "star": 5,
+    "_id": "0953-dfe86153-2f31-493c-b71b-4d88892be7f5"
+}, {
+    "id": 7,
+    "name": "Aaroniero Arruruerie(Raid Reward)",
+    "star": 5,
+    "_id": "0214-8029d571-b444-4ea4-b790-99760a52cc8b"
+}, {
+    "id": 8,
+    "name": "Tensa Zangetsu(Raid Reward)",
+    "star": 5,
+    "_id": "0626-4ec89974-ba42-4677-9a6a-185429cc547f"
+}, {
+    "id": 9,
+    "name": "Rangiku Matsumoto(Raid Reward)",
+    "star": 5,
+    "_id": "0108-ebfe582f-c933-44d1-8558-64c98015336a"
+}, {
+    "id": 10,
+    "name": "Yachiru Kusajishi(Raid Reward)",
+    "star": 5,
+    "_id": "0123-60a0674c-ecb3-4fd6-ba6c-033b2132eb9e"
+}, {
+    "id": 11,
+    "name": "Jushiro Ukitake(Raid Reward)",
+    "star": 5,
+    "_id": "0189-b4a1131d-cb18-4776-b2f5-4719ba10b753"
+}, {
+    "id": 12,
+    "name": "Ikkaku Madarame(Raid Reward)",
+    "star": 5,
+    "_id": "0740-9738e35c-b118-4f15-9f6f-cde4388b943e"
+}, {
+    "id": 13,
+    "name": "Shunsui Kyoraku(Raid Reward)",
+    "star": 5,
+    "_id": "0654-a21809a6-94dd-4427-b705-b4d9f79308a4"
+}, {
+    "id": 14,
+    "name": "Nnoitora Gilga(Raid Reward)",
+    "star": 5,
+    "_id": "0607-6f642949-ff18-4614-82c8-15340db52f8e"
+}, {
+    "id": 15,
+    "name": "Sosuke Aizen(Raid Reward)",
+    "star": 5,
+    "_id": "0615-2f21da49-cbf8-4222-a3ef-8f16fcfaf3af"
+}, {
+    "id": 16,
+    "name": "White Ichigo(Raid Reward)",
+    "star": 5,
+    "_id": "0285-eaeb8c22-cff0-40c2-a8e3-8400ccb6a15e"
+}, {
+    "id": 17,
+    "name": "Mayuri Kurotsuchi(Raid Reward)",
+    "star": 5,
+    "_id": "0631-aa54c475-80a8-4991-95dc-4b14b59d2a20"
+}, {
+    "id": 18,
+    "name": "Uryu Ishida(Raid Reward)",
+    "star": 5,
+    "_id": "0836-26c64043-67bd-4d8e-ada2-e312f4668672"
+}, {
+    "id": 19,
+    "name": "Grimmjow Jeagerjaques(Raid Reward)",
+    "star": 5,
+    "_id": "0784-b26de302-1d5d-4950-8701-fd29397607c1"
+}, {
+    "id": 20,
+    "name": "Rukia Kuchiki(Raid Reward)",
+    "star": 5,
+    "_id": "0783-aec6d087-3a86-44db-a526-359c8ceb4c83"
+}, {
+    "id": 21,
+    "name": "Szayelaporro Grantz(Raid Reward)",
+    "star": 5,
+    "_id": "0308-037d4a88-fa90-40ea-a004-cc8e96955f4b"
+}, {
+    "id": 22,
+    "name": "Shinji Hirako(Raid Reward)",
+    "star": 5,
+    "_id": "0616-bf724497-9749-48d6-b306-985ec0fbe362"
+}, {
+    "id": 23,
+    "name": "Shukuro Tsukishima(Raid Reward)",
+    "star": 5,
+    "_id": "0746-683050e8-46f6-4c4a-9296-35f8a205ce64"
+}, {
+    "id": 24,
+    "name": "Ichigo Kurosaki(Raid Reward)",
+    "star": 5,
+    "_id": "0596-246d71fd-8894-4024-9ff2-762ea965a7fc"
+}, {
+    "id": 25,
+    "name": "Shigekuni Genryusai Yamamoto(Raid Reward)",
+    "star": 5,
+    "_id": "0611-555c7c8f-a04a-4b02-9aa2-ee5f7c644fd5"
+}, {
+    "id": 26,
+    "name": "Tier Halibel(Raid Reward)",
+    "star": 5,
+    "_id": "0236-93157abd-4eae-4032-89da-9751fe48880b"
+}, {
+    "id": 27,
+    "name": "Hachigen Ushoda(Raid Reward)",
+    "star": 5,
+    "_id": "0291-00a5196c-48c8-4463-8544-81bc38fc7c39"
+}, {
+    "id": 28,
+    "name": "Ulquiorra Shifar(Raid Reward)",
+    "star": 5,
+    "_id": "0714-90877772-7fc2-4140-870b-f7b3124acfaf"
+}, {
+    "id": 29,
+    "name": "Ichigo Kurosaki(Raid Reward)",
+    "star": 5,
+    "_id": "0217-3a4c14b0-4118-4774-aa73-9ef6b92367f8"
+}, {
+    "id": 30,
+    "name": "Kenpachi Zaraki(Raid Reward)",
+    "star": 5,
+    "_id": "0633-56b96682-bf14-4238-a914-c0e355ff512f"
+}, {
+    "id": 31,
+    "name": "Yasutora \"Chad\" Sado(Raid Reward)",
+    "star": 5,
+    "_id": "0170-c7854c31-3fac-4fc7-94a5-860e454bc1b0"
+}, {
+    "id": 32,
+    "name": "Toshiro Hitsugaya(Raid Reward)",
+    "star": 5,
+    "_id": "0608-c06610ef-7f44-44f6-8bfe-c9acc23f599a"
+}, {
+    "id": 33,
+    "name": "Soi Fon(Raid Reward)",
+    "star": 5,
+    "_id": "0614-d2007f8d-09e4-4682-a09b-e179ce7aab3d"
+}, {
+    "id": 34,
+    "name": "Isane Kotetsu(Raid Reward)",
+    "star": 5,
+    "_id": "0854-a22a0eab-5717-464d-99f2-67534c1bc080"
+}, {
+    "id": 35,
+    "name": "Byakuya Kuchiki(Raid Reward)",
+    "star": 5,
+    "_id": "0589-945b48d7-cc3f-4d94-b591-3d18fd7685e4"
+}, {
+    "id": 36,
+    "name": "Shuhei Hisagi(Raid Reward)",
+    "star": 5,
+    "_id": "0034-01a9e6ec-b430-4c6c-9151-7ad98c9d38fc"
+}, {
+    "id": 37,
+    "name": "Kaname Tosen(Raid Reward)",
+    "star": 5,
+    "_id": "0591-4d114d41-bea8-4ec2-8756-6f485b108722"
+}, {
+    "id": 38,
+    "name": "Retsu Unohana(Raid Reward)",
+    "star": 5,
+    "_id": "0693-96f30a49-5eb0-4764-a5c1-7387134f7235"
+}, {
+    "id": 39,
+    "name": "Sajin Komamura(Raid Reward)",
+    "star": 5,
+    "_id": "0662-89a83b08-4546-454c-8ec9-9e9d060bf1e9"
+}, {
+    "id": 40,
+    "name": "Orihime Inoue(Raid Reward)",
+    "star": 5,
+    "_id": "0299-d9a99afd-9a1b-4e13-b7dc-ff1b00b393ec"
+}, {
+    "id": 41,
+    "name": "Yoruichi Shihoin(Raid Reward)",
+    "star": 5,
+    "_id": "0664-ebb9880f-7f63-4eee-a604-c99ae1a7a33c"
+}, {
+    "id": 42,
+    "name": "Ichigo Kurosaki(Raid Reward)",
+    "star": 5,
+    "_id": "0110-d6b36fc6-1367-4989-a257-d1f0304d00fc"
+}, {
+    "id": 43,
+    "name": "Ichigo Kurosaki(Raid Reward)",
+    "star": 5,
+    "_id": "0823-6ed5eaeb-8d3a-43a4-b19f-b3cb5a0dca17"
+}, {
+    "id": 44,
+    "name": "Nelliel Tu Odelschwanck(Raid Reward)",
+    "star": 4,
+    "_id": "0098-2cda2443-96b9-49dd-8808-f5e76449e886"
+}, {
+    "id": 45,
+    "name": "Hanataro Yamada(Raid Reward)",
+    "star": 4,
+    "_id": "0753-7bf53d21-8cf1-4f2e-9edd-5ec088157f37"
+}, {
+    "id": 46,
+    "name": "Kaien Shiba(Raid Reward)",
+    "star": 4,
+    "_id": "0094-f0c7d5a5-9a2f-42fd-a299-e1af99b2edf6"
+}, {
+    "id": 47,
+    "name": "Kugo Ginjo(Raid Reward)",
+    "star": 4,
+    "_id": "0747-f8426ab7-d970-4bbe-b977-d1e9bfc5d048"
+}, {
+    "id": 48,
+    "name": "Love Aikawa(Raid Reward)",
+    "star": 4,
+    "_id": "0592-86213bf6-2e0b-433b-bee7-b78cb54756ff"
+}, {
+    "id": 49,
+    "name": "Kensei Muguruma(Raid Reward)",
+    "star": 4,
+    "_id": "0169-d9ed08d7-af50-48ea-a642-a2f354b70d89"
+}, {
+    "id": 50,
+    "name": "Orihime Inoue(Raid Reward)",
+    "star": 4,
+    "_id": "0727-b62bfacb-e05a-459c-973f-d3bf205bd1ab"
+}, {
+    "id": 51,
+    "name": "Marechiyo Omaeda(Raid Reward)",
+    "star": 4,
+    "_id": "0211-7f941418-37f6-4607-842a-dcd016b0628b"
+}, {
+    "id": 52,
+    "name": "Shigekuni Genryusai Yamamoto(Raid Reward)",
+    "star": 4,
+    "_id": "0593-7959aab2-e22d-4654-82dc-f31c0a34945f"
+}, {
+    "id": 53,
+    "name": "Renji Abarai(Raid Reward)",
+    "star": 4,
+    "_id": "0613-d742b8f9-38c2-40f3-8a39-1f8a1ac51873"
+}, {
+    "id": 54,
+    "name": "Ichigo Kurosaki(Raid Reward)",
+    "star": 4,
+    "_id": "0745-8c216a4a-e541-49aa-b271-67d7b528f215"
+}, {
+    "id": 55,
+    "name": "Kisuke Urahara(Raid Reward)",
+    "star": 4,
+    "_id": "0023-f0eb1d2b-9115-48fb-a353-19898bd0c764"
+}, {
+    "id": 56,
+    "name": "Mashiro Kuna(Raid Reward)",
+    "star": 4,
+    "_id": "0617-c34ef9d5-01d8-4f96-a6a9-c0a7fca19f34"
+}, {
+    "id": 57,
+    "name": "Sajin Komamura(Raid Reward)",
+    "star": 4,
+    "_id": "0129-eee37eda-f409-41ec-acff-8d5b3d8429ca"
+}, {
+    "id": 58,
+    "name": "Isshin Kurosaki(Raid Reward)",
+    "star": 4,
+    "_id": "0157-661f862c-0cd3-4a3a-aa60-962185452930"
+}, {
+    "id": 59,
+    "name": "Momo Hinamori(Raid Reward)",
+    "star": 4,
+    "_id": "0012-95c88eee-bcaf-43b6-a041-25f42dac36a5"
+}, {
+    "id": 60,
+    "name": "Ikkaku Madarame(Raid Reward)",
+    "star": 4,
+    "_id": "0612-d3cf307b-82d3-4207-8b95-51fa647d2fcd"
+}, {
+    "id": 61,
+    "name": "Sosuke Aizen(Raid Reward)",
+    "star": 4,
+    "_id": "0031-79bbd831-b3a0-49e2-be1d-e6f321130912"
+}, {
+    "id": 62,
+    "name": "Shunsui Kyoraku(Raid Reward)",
+    "star": 4,
+    "_id": "0657-21802ebe-bcc8-4cc4-8b84-4fcc600f72ec"
+}, {
+    "id": 63,
+    "name": "Byakuya Kuchiki(Raid Reward)",
+    "star": 4,
+    "_id": "0663-de815b99-b952-44cd-a12b-670ff03899c4"
+}, {
+    "id": 64,
+    "name": "Toshiro Hitsugaya(Raid Reward)",
+    "star": 4,
+    "_id": "0715-b5fc2ff0-75b3-45a0-b174-632640b973e5"
+}, {
+    "id": 65,
+    "name": "Izuru Kira(Raid Reward)",
+    "star": 4,
+    "_id": "0594-fab30b5e-2ec5-4223-a170-6c0e177ef5b0"
+}, {
+    "id": 66,
+    "name": "Rangiku Matsumoto(Raid Reward)",
+    "star": 4,
+    "_id": "0610-e125e801-fa9d-4bb2-b0bf-0d2c0a0f6d40"
+}, {
+    "id": 67,
+    "name": "Gin Ichimaru(Raid Reward)",
+    "star": 4,
+    "_id": "0606-7d6262e3-a64d-4f77-baed-914e0dd23601"
+}, {
+    "id": 68,
+    "name": "Yumichika Ayasegawa(Raid Reward)",
+    "star": 4,
+    "_id": "0634-c9bf6c4a-a87a-440d-a18c-a3ee8e79136b"
+}, {
+    "id": 69,
+    "name": "Soi Fon(Raid Reward)",
+    "star": 4,
+    "_id": "0440-81d2d088-2870-41ed-88c6-3136b10cc457"
+}, {
+    "id": 70,
+    "name": "Rukia Kuchiki(Raid Reward)",
+    "star": 4,
+    "_id": "0595-3e13855e-e753-46aa-82c0-f4e799040715"
+}, {
+    "id": 71,
+    "name": "Jushiro Ukitake(Raid Reward)",
+    "star": 4,
+    "_id": "0609-c785440b-c02a-411b-8f77-2c74e529ee28"
+}, {
+    "id": 72,
+    "name": "Retsu Unohana(Raid Reward)",
+    "star": 4,
+    "_id": "0069-b329f398-5248-4871-b54b-6d92c6403988"
+}, {
+    "id": 73,
+    "name": "Mayuri Kurotsuchi(Raid Reward)",
+    "star": 4,
+    "_id": "0632-a9602c30-1494-41c3-bcc7-d03fbac9333f"
+}, {
+    "id": 74,
+    "name": "Yammy Llargo(Raid Reward)",
+    "star": 4,
+    "_id": "0159-4f4edd75-ed7f-484f-8181-91d9bc80a703"
+}]
