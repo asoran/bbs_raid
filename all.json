@@ -99,7 +99,7 @@
     "raidTab": [],
     "raidChar": [],
     "id": 177,
-    "_id": "1127-3c54c5c3-186e-4c55-bc47-0ceafc6bc1dc"
+    "_id": "1128-ac8c7d4d-ebf8-45c4-ad71-95928f58e340"
 }, {
     "name": "Orihime Inoue(Swimsuit version)",
     "char": "Orihime Inoue 6",
@@ -116,7 +116,7 @@
     "raidTab": [],
     "raidChar": [],
     "id": 176,
-    "_id": "1128-ac8c7d4d-ebf8-45c4-ad71-95928f58e340"
+    "_id": "1127-3c54c5c3-186e-4c55-bc47-0ceafc6bc1dc"
 }, {
     "name": "Tier Halibel(Japanese Parasol version)",
     "char": "Tier Halibel 6",
@@ -150,7 +150,7 @@
     "raidTab": [],
     "raidChar": [],
     "id": 174,
-    "_id": "1119-93b831ed-0978-4c99-9a2b-452b2c25f518"
+    "_id": "1118-6ac59bcf-d58e-4598-84a8-289a4e33bffd"
 }, {
     "name": "Sosuke Aizen(Japanese Parasol version)",
     "char": "Sosuke Aizen 6",
@@ -167,7 +167,7 @@
     "raidTab": [],
     "raidChar": [],
     "id": 173,
-    "_id": "1118-6ac59bcf-d58e-4598-84a8-289a4e33bffd"
+    "_id": "1119-93b831ed-0978-4c99-9a2b-452b2c25f518"
 }, {
     "name": "Shunsui Kyoraku(The Past version)",
     "char": "Shunsui Kyoraku 6",
@@ -218,7 +218,7 @@
     "raidTab": [4, 3, 2, 7],
     "raidChar": [36, 19, 26, 44],
     "id": 170,
-    "_id": "1112-e8937839-5f1e-46a0-a974-36f4db5789aa"
+    "_id": "1113-6e11a76a-4bff-43c7-9e72-e32465e2a642"
 }, {
     "name": "Nelliel Tu Odelschwanck(CFYOW version)",
     "char": "Nelliel Tu Odelschwanck 6",
@@ -235,7 +235,7 @@
     "raidTab": [5, 4, 7],
     "raidChar": [19, 42, 55],
     "id": 169,
-    "_id": "1113-6e11a76a-4bff-43c7-9e72-e32465e2a642"
+    "_id": "1112-e8937839-5f1e-46a0-a974-36f4db5789aa"
 }, {
     "name": "Tensa Zangetsu",
     "char": "Tensa Zangetsu 6",
@@ -286,7 +286,7 @@
     "raidTab": [5, 4, 7],
     "raidChar": [24, 41, 55],
     "id": 166,
-    "_id": "1094-d6aa1512-0be6-4862-b839-8907d8170e22"
+    "_id": "1122-af529390-24c8-4747-83c2-182026b58120"
 }, {
     "name": "Jushiro Ukitake(The Past version)",
     "char": "Jushiro Ukitake 6",
@@ -320,7 +320,7 @@
     "raidTab": [5, 4, 7],
     "raidChar": [33, 3, 61],
     "id": 164,
-    "_id": "1122-af529390-24c8-4747-83c2-182026b58120"
+    "_id": "1094-d6aa1512-0be6-4862-b839-8907d8170e22"
 }, {
     "name": "Retsu Unohana(The Past version)",
     "char": "Retsu Unohana 6",
@@ -371,7 +371,7 @@
     "raidTab": [4, 5, 7],
     "raidChar": [17, 41, 52],
     "id": 161,
-    "_id": "1087-67b906a7-c044-4ee6-9d96-042ae40966a5"
+    "_id": "1116-f8043b82-483c-4dba-844b-7ce6d28ab219"
 }, {
     "name": "Shinji Hirako(The Past version)",
     "char": "Shinji Hirako 6",
@@ -405,7 +405,7 @@
     "raidTab": [4, 6, 7],
     "raidChar": [30, 43, 60],
     "id": 159,
-    "_id": "1116-f8043b82-483c-4dba-844b-7ce6d28ab219"
+    "_id": "1087-67b906a7-c044-4ee6-9d96-042ae40966a5"
 }, {
     "name": "Ikkaku Madarame(The Belief version)",
     "char": "Ikkaku Madarame 6",
@@ -456,7 +456,7 @@
     "raidTab": [],
     "raidChar": [],
     "id": 156,
-    "_id": "1049-218dbaa9-4f0f-47eb-a7e5-94f45db0bd77"
+    "_id": "1071-dafbef22-2b3e-4bed-b35d-a9d3d137564d"
 }, {
     "name": "Sosuke Aizen(3rd Fusion version)",
     "char": "Sosuke Aizen 6",
@@ -473,7 +473,7 @@
     "raidTab": [3, 6, 5, 2],
     "raidChar": [41, 9, 67, 58],
     "id": 155,
-    "_id": "1071-dafbef22-2b3e-4bed-b35d-a9d3d137564d"
+    "_id": "1049-218dbaa9-4f0f-47eb-a7e5-94f45db0bd77"
 }, {
     "name": "Hanataro Yamada(New Year version)",
     "char": "Hanataro Yamada 6",
@@ -541,7 +541,7 @@
     "raidTab": [],
     "raidChar": [],
     "id": 151,
-    "_id": "1003-5d9f3e66-bc37-47c6-a5ee-e21c0d623a4f"
+    "_id": "1092-fe453b9c-97a2-4729-afc2-240c05013116"
 }, {
     "name": "Gin Ichimaru(Cacao Society version)",
     "char": "Gin Ichimaru 6",
@@ -592,7 +592,7 @@
     "raidTab": [6, 3, 2, 4],
     "raidChar": [15, 23, 18, 6],
     "id": 148,
-    "_id": "1092-fe453b9c-97a2-4729-afc2-240c05013116"
+    "_id": "1003-5d9f3e66-bc37-47c6-a5ee-e21c0d623a4f"
 }, {
     "name": "White Ichigo(Cacao Society version)",
     "char": "White Ichigo 6",
@@ -609,7 +609,7 @@
     "raidTab": [],
     "raidChar": [],
     "id": 147,
-    "_id": "1004-30d1cff5-080b-4a2f-901c-cc29fc924526"
+    "_id": "1005-ad29a792-8c43-4e86-9ccf-51cdc9202f94"
 }, {
     "name": "Yhwach(Thousand-Year Blood War version)",
     "char": "Yhwach 6",
@@ -626,7 +626,7 @@
     "raidTab": [2, 5, 4, 2],
     "raidChar": [24, 25, 18, 8],
     "id": 146,
-    "_id": "1005-ad29a792-8c43-4e86-9ccf-51cdc9202f94"
+    "_id": "1004-30d1cff5-080b-4a2f-901c-cc29fc924526"
 }, {
     "name": "Kisuke Urahara(Thousand-Year Blood War version)",
     "char": "Kisuke Urahara 6",
@@ -949,7 +949,7 @@
     "raidTab": [3, 2, 4, 7],
     "raidChar": [18, 31, 40, 70],
     "id": 127,
-    "_id": "1032-f995aff8-d975-43a3-8897-512219c05932"
+    "_id": "1045-06c96467-80e5-4632-b5ae-755ce8ab9c55"
 }, {
     "name": "Ulquiorra Shifar(3rd Anniversary version)",
     "char": "Ulquiorra Shifar 6",
@@ -966,7 +966,7 @@
     "raidTab": [3, 2, 4, 7],
     "raidChar": [15, 43, 0, 50],
     "id": 126,
-    "_id": "1033-7cea0167-79e5-4c1e-9385-c5676595d306"
+    "_id": "1046-6eb9d3cd-8c3b-4edb-b195-a2f028e995d3"
 }, {
     "name": "Uryu Ishida(The Bond version)",
     "char": "Uryu Ishida 6",
@@ -983,7 +983,7 @@
     "raidTab": [5, 4, 7],
     "raidChar": [23, 31, 47],
     "id": 125,
-    "_id": "1045-06c96467-80e5-4632-b5ae-755ce8ab9c55"
+    "_id": "1032-f995aff8-d975-43a3-8897-512219c05932"
 }, {
     "name": "Yasutora \"Chad\" Sado(The Bond version)",
     "char": "Yasutora \"Chad\" Sado 6",
@@ -1000,7 +1000,7 @@
     "raidTab": [4, 5, 7],
     "raidChar": [23, 40, 58],
     "id": 124,
-    "_id": "1046-6eb9d3cd-8c3b-4edb-b195-a2f028e995d3"
+    "_id": "1033-7cea0167-79e5-4c1e-9385-c5676595d306"
 }, {
     "name": "Gin Ichimaru(Spirit Society version)",
     "char": "Gin Ichimaru 6",
@@ -1153,7 +1153,7 @@
     "raidTab": [4, 4, 7],
     "raidChar": [16, 8, 2],
     "id": 115,
-    "_id": "1036-36620dd8-83ce-4616-ba09-5ac9dc6fe76a"
+    "_id": "1028-c606dd21-8031-4558-9b1f-19fdac9849b6"
 }, {
     "name": "Rukia Kuchiki(Thousand-Year Blood War version)",
     "char": "Rukia Kuchiki 6",
@@ -1187,7 +1187,7 @@
     "raidTab": [],
     "raidChar": [],
     "id": 113,
-    "_id": "1028-c606dd21-8031-4558-9b1f-19fdac9849b6"
+    "_id": "1036-36620dd8-83ce-4616-ba09-5ac9dc6fe76a"
 }, {
     "name": "Renji Abarai(Thousand-Year Blood War version)",
     "char": "Renji Abarai 6",
@@ -1629,23 +1629,6 @@
     "raidTab": [],
     "raidChar": [],
     "id": 87,
-    "_id": "0954-3b10bb24-2a84-4409-a56e-04a49f8d121b"
-}, {
-    "name": "Nnoitora Gilga(Japanese Parasol version)",
-    "char": "Nnoitora Gilga 6",
-    "type": "purple",
-    "quote": "\"A parasol can be pretty handy. It just depends how you use it.\"",
-    "soulTrait": "Strong attack recharge time -12%",
-    "stats": {
-        "sta": 1017,
-        "atk": 642,
-        "def": 358,
-        "fcs": 336,
-        "sp": 741
-    },
-    "raidTab": [],
-    "raidChar": [],
-    "id": 86,
     "_id": "0956-40fff503-efb9-4b7e-af81-efebff0565d4"
 }, {
     "name": "Nnoitora Gilga(Japanese Parasol version)",
@@ -1662,8 +1645,8 @@
     },
     "raidTab": [],
     "raidChar": [],
-    "id": 85,
-    "_id": "0744-ac9300b2-27ed-42c4-b932-18eb711d6254"
+    "id": 86,
+    "_id": "0954-3b10bb24-2a84-4409-a56e-04a49f8d121b"
 }, {
     "name": "Yin & Yang(Movie 2 version)",
     "char": "Yin & Yang 6",
@@ -1680,7 +1663,7 @@
     "raidTab": [3, 6, 8],
     "raidChar": [18, 31, 70],
     "id": 84,
-    "_id": "0744-ac9300b2-27ed-42c4-b932-18eb711d6254"
+    "_id": "0935-31174c25-6ac3-48ec-9a88-96d6d4505f21"
 }, {
     "name": "Sosuke Aizen(2nd fusion version)",
     "char": "Sosuke Aizen 6",
@@ -1765,7 +1748,7 @@
     "raidTab": [2, 2, 2],
     "raidChar": [15, 61, 54],
     "id": 79,
-    "_id": "0935-31174c25-6ac3-48ec-9a88-96d6d4505f21"
+    "_id": "0744-ac9300b2-27ed-42c4-b932-18eb711d6254"
 }, {
     "name": "Marechiyo Omaeda",
     "char": "Marechiyo Omaeda 6",
@@ -1969,7 +1952,7 @@
     "raidTab": ["9", "3", "2", "2"],
     "raidChar": [42, 70, 63, 55],
     "id": 67,
-    "_id": "0860-434c9deb-653a-43ac-8e91-a6b92c6e7ce0"
+    "_id": "0898-f0f2bc39-84b8-4e55-9f7e-8cd16b82c6e8"
 }, {
     "name": "Tier Halibel(Cacao Society version)",
     "char": "Tier Halibel 6",
@@ -2003,7 +1986,7 @@
     "raidTab": ["3", "6", "3", "4"],
     "raidChar": [30, 42, 69, 64],
     "id": 65,
-    "_id": "0898-f0f2bc39-84b8-4e55-9f7e-8cd16b82c6e8"
+    "_id": "0860-434c9deb-653a-43ac-8e91-a6b92c6e7ce0"
 }, {
     "name": "Yoruichi Shihoin(Cacao Society version)",
     "char": "Yoruichi Shihoin 6",
@@ -2275,7 +2258,7 @@
     "raidTab": ["6", "8", "7"],
     "raidChar": [24, 29, 54],
     "id": 49,
-    "_id": "0857-d968fe81-5513-4796-bd15-8e89728f3c41"
+    "_id": "0807-328897fc-d6b9-4970-9d03-90147f2eecd0"
 }, {
     "name": "Ichigo Kurosaki(Tag Team version)",
     "char": "Ichigo Kurosaki 6",
@@ -2309,7 +2292,7 @@
     "raidTab": ["9", "9"],
     "raidChar": [59, 49],
     "id": 47,
-    "_id": "0856-510397f2-449b-451c-adda-1ead93154a03"
+    "_id": "0857-d968fe81-5513-4796-bd15-8e89728f3c41"
 }, {
     "name": "Ichigo Kurosaki(The Lost Agent version)",
     "char": "Ichigo Kurosaki 6",
@@ -2343,7 +2326,7 @@
     "raidTab": ["9", "8"],
     "raidChar": [41, 51],
     "id": 45,
-    "_id": "0807-328897fc-d6b9-4970-9d03-90147f2eecd0"
+    "_id": "0856-510397f2-449b-451c-adda-1ead93154a03"
 }, {
     "name": "Orihime Inoue(Halloween version)",
     "char": "Orihime Inoue 6",
@@ -2547,7 +2530,7 @@
     "raidTab": ["9", "3", "4"],
     "raidChar": [28, 50, 74],
     "id": 33,
-    "_id": "0839-9120faff-7844-4cdd-94be-c3448fde2400"
+    "_id": "0427-9e7bffa4-8ea1-414b-b971-47bf0da094b7"
 }, {
     "name": "Tensa Zangetsu",
     "char": "Tensa Zangetsu 6",
@@ -2581,7 +2564,7 @@
     "raidTab": ["9", "4", "3"],
     "raidChar": [25, 71, 56],
     "id": 31,
-    "_id": "0428-179e9353-0ef5-4973-a385-f6328e1daadb"
+    "_id": "0839-9120faff-7844-4cdd-94be-c3448fde2400"
 }, {
     "name": "Retsu Unohana(Tag Team version)",
     "char": "Retsu Unohana 6",
@@ -2700,7 +2683,7 @@
     "raidTab": ["4", "7", "5"],
     "raidChar": [30, 19, 44],
     "id": 24,
-    "_id": "0427-9e7bffa4-8ea1-414b-b971-47bf0da094b7"
+    "_id": "0764-9d0049d0-0908-4850-b4e3-c0e27c7f8600"
 }, {
     "name": "Nemu Kurotsuchi(Swimsuit version)",
     "char": "Nemu Kurotsuchi 6",
@@ -2751,7 +2734,7 @@
     "raidTab": ["9", "4", "4"],
     "raidChar": [30, 60, 72],
     "id": 21,
-    "_id": "0764-9d0049d0-0908-4850-b4e3-c0e27c7f8600"
+    "_id": "0682-39bdb1fd-d670-4acf-b694-e7c17e7dd152"
 }, {
     "name": "Cyan Sun-Sun",
     "char": "Cyan Sun-Sun 6",
@@ -2836,7 +2819,7 @@
     "raidTab": ["10", "3", "4"],
     "raidChar": [29, 63, 47],
     "id": 16,
-    "_id": "0682-39bdb1fd-d670-4acf-b694-e7c17e7dd152"
+    "_id": "0721-bf356cce-74cd-40f3-9c80-bd4a08a0945f"
 }, {
     "name": "White Ichigo(Fully-Hollowfied version)",
     "char": "White Ichigo 6",
@@ -2887,7 +2870,7 @@
     "raidTab": ["9", "7"],
     "raidChar": [52, 45],
     "id": 13,
-    "_id": "0721-bf356cce-74cd-40f3-9c80-bd4a08a0945f"
+    "_id": "0786-a9f0a07e-c7db-4ec6-af54-d9485e7b13c0"
 }, {
     "name": "Uryu Ishida(The Lost Agent version)",
     "char": "Uryu Ishida 6",
@@ -2989,7 +2972,7 @@
     "raidTab": ["5", "5", "3"],
     "raidChar": [33, 39, 71],
     "id": 7,
-    "_id": "0786-a9f0a07e-c7db-4ec6-af54-d9485e7b13c0"
+    "_id": "0428-179e9353-0ef5-4973-a385-f6328e1daadb"
 }, {
     "name": "Shigekuni Genryusai Yamamoto",
     "char": "Shigekuni Genryusai Yamamoto 6",

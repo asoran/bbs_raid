@@ -4,30 +4,70 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
     <title>Carglass répare Carglass remplace</title>
 </head>
 <body>
-    
-    <h1>😎</h1>
+    <h4>
+        😎Citation du jour:
+        <br/>
+        Dis-moi et j’oublierai, montre-moi et je me souviendrai, implique-moi et je comprendrai.
+    </h4>
+    <div id="app">
+        <div v-if="loading">
+            Loading ... 🙃
+            <br/>
+            <span v-if="error">Error: {{error}}</span>
+        </div>
+        <div v-else>
+            <div>
+                <label for="filter">Filtrer by name:
+                <input name="filter" style="width: 300px; height: 30px; border: 1px solid black;"
+                    v-model="filter" type="text" placeholder="name (ex: Ichigo)">
+                </label>
+            </div>
+            <br/><br/>
 
+            <div class="persos" v-for="p in selected">
+                <img style="width: 40px; height: 40px" v-bind:src="IMG_URL + p._id + '.png'"></img>
+                <span>{{p.name}}</span>
+                <ul>
+                    <li v-if="p.raidChar.length == 0">Nothing 👌</li>
+                    <li v-for="(r, i) in p.raidChar">
+                        <img style="width: 20px; height: 20px" v-bind:src="IMG_URL + raid[r]._id + '.png'"></img>
+                        {{raid[r].name}} * {{p.raidTab[i]}}
+                        <ul><li>Dispo?: [TODO]</li></ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </body>
 <script>
+    const app = new Vue({
+        el: '#app',
+        data: {
+            loading: true,
+            error: '',
+            IMG_URL: 'https://s3.amazonaws.com/bbs-simulator.com/character/',
+            filter: ''
+        }, methods: {
+
+        }, computed: {
+            selected() {
+                return all.filter(x => x.name.toLowerCase().indexOf(this.filter.toLowerCase()) != -1).slice(0, 10);
+            }
+        }
+    });
+
     // Yikes
     const fetchJson = (fn) => fetch(fn, {method: 'GET'}).then(x => x.json());
 
-    let all,
-        raid,
-        oof;
-
-    fetchJson('./all.json').then(data => {
-        all = data;
-        console.log(all);
-    });
-    fetchJson('./raid.json').then(data => {
-        raid = data;
-        console.log(raid);
-    });
-
-
+    let all, raid;
+    Promise.all([fetchJson('./all.json'), fetchJson('./raid.json')]).then(res => {
+        all = res[0];
+        raid = res[1];
+        app.loading = false;
+    }).catch(err => app.error = err);
 </script>
 </html>
